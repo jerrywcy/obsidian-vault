@@ -1,0 +1,13 @@
+/*customized link, for Blue Topaz*/
+
+/*只针对[]()型链接*/
+
+/*未创建的链接，data-href是()里的内容*/
+.internal-link.is-unresolved[data-href="aaa"] {
+    color: violet !important;
+}
+
+/*已创建的链接，data-href是()里的内容*/
+.internal-link[data-href="aaa"] {
+    color: green;
+}

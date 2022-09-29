@@ -1,0 +1,53 @@
+/* pdf dark codebox v0.2, for Blue Topaz, for exported pdf */
+
+@media print {
+    .markdown-preview-view {
+      color: var(--text-normal) !important;
+      font-family: var(--font-family-major) !important;
+    }
+    
+    .markdown-preview-view :not(font) > strong {
+      -webkit-print-color-adjust: exact;
+      color: var(--accent-strong);
+    }
+  
+    .markdown-preview-view mark { 
+      color: var(--text-highlight) !important;
+    }
+  
+    /* Print URL After Links */
+    /*
+    a::after{
+      content: " (" attr(href) ") ";
+    }
+    */
+  
+    .theme-dark {
+      --background-primary: #222222; 
+      --background-primary-alt: #444444;
+      --background-secondary: #333333;
+      --background-secondary-alt: #000000; 
+      --background-code: #2c2c2c;
+      --text-color-code: #d58000;
+      --text-color-code-normal: #e7e7e7;
+      --background-primary-bg-4-bt: #222222; 
+      --background-primary-alt-bg-4-bt: #444444;
+      --background-secondary-bg-4-bt: #333333;
+      --background-secondary-alt-bg-4-bt: #000000; 
+      --background-4-sliding-panel: #252525ed;
+
+      --gray-1: #5C6370;
+      --gray-2: #abb2bf;
+      --red: #e06c75;
+      --red-1: #d05a63;
+      --orange: #d19a66;
+      --green: #b6e296;
+      --darkgreen: #399a58;
+      --aqua: #56b6c2;
+      --purple: #c678dd;
+      --blue: #9dcffc;
+      --darkblue: #4889df;
+      --yellow: #e4ba6c;
+      --light-yellow: #dfda91;
+    }
+  }

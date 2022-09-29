@@ -1,0 +1,5 @@
+![[Attachments/Pasted image 20220514195551.png]]
+The line chart illustrates the percentage of people greater than 65 years old from 1940 to 2040 in three different countries.
+The percentage of people aged over 65 was about 9% in 1940 for USA. The figure then rise to 10% in 1960 and 15% in 1980. After a small dip to 14%, the number went straight up and is predicted to rush to 23% in 2040. The situation for Sweden was similar except for that the percentage ran up to 20% then dipped.
+As for Japan, the percentage of people whose age was more than 65 was quite low in 1940, at a number of 5%, and continued to drop to roughly 3% until 1985, when the number started to rise back. In contrary to its performance in the 20th century, the number is expected to rise to 10% in 2030 and shoot up to 27% in 2040.
+In general, the percentage of population aged 65 and over is on the rise around the world.

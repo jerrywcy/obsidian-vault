@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "d96e67490af1f5da",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e0754757c8ce7a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "出国申请/UBC文书/1-Who you are.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f7caae675171a51",
+    "type": "split",
+    "children": [
+      {
+        "id": "edeeee1d6103fac3",
+        "type": "tabs",
+        "dimension": 69.8685540950455,
+        "children": [
+          {
+            "id": "b36e44407189250c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0e2143da6b2fa93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "walking",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91900b3ccc5d977c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "550f6aa6ab27d85a",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "131b59b657863f01",
+        "type": "tabs",
+        "dimension": 30.1314459049545,
+        "children": [
+          {
+            "id": "71ca92a8b0f3851d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfd96ba7bcaebe0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "17092a8e1e63c7e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a512d27bc694ed2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "出国申请/UBC文书/1-Who you are.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45a42f718b868d30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "出国申请/UBC文书/1-Who you are.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f516581e77ab058",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce1e2127d3644949",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "出国申请/UBC文书/1-Who you are.md"
+              }
+            }
+          },
+          {
+            "id": "e59d09bee6763968",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "abed5b2771764cf7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "18e4c99052634b4c",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ac54d7c3de87e00",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "f69b379d73e7071e",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "16a8d5118ca16156",
+            "type": "leaf",
+            "state": {
+              "type": "workbench-items",
+              "state": {}
+            }
+          },
+          {
+            "id": "13fbef23dacca42a",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1fefe65f6be1cad",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "36d495cbe492334e",
+            "type": "leaf",
+            "state": {
+              "type": "virtual-hotkey-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314,
+    "collapsed": true
+  },
+  "active": "0e0754757c8ce7a6",
+  "lastOpenFiles": [
+    "出国申请/UBC文书/UBC文书大纲.md",
+    "出国申请/UBC文书/2-What's important to you.md",
+    "出国申请/UBC文书/1-Who you are.md",
+    "出国申请/奖项统计.md",
+    "We choose to go to the moon.md",
+    "DailyNotes/2022-08-15.md",
+    "无水焗鲈鱼.md",
+    "西红柿鸡蛋面疙瘩.md",
+    "Newsletter.md",
+    "学习/IELTS/写作/History of the house.md"
+  ]
+}

@@ -1,0 +1,427 @@
+/* 设置内容区宽度 */
+
+
+/* 更改默认的高亮、粗体、斜体颜色 实现“在标题右上角添加”上标的功能*/
+.markdown-preview-view mark {
+  background-color: transparent !important;
+  color: #000 !important;
+  font-weight: 600;
+}
+
+.markdown-preview-view del {
+  background-color: #e7c000;
+  color: #fff;
+  vertical-align: top;
+  border-radius: 3px;
+  padding: 1px 6px;
+  font-size: 12px;
+  height: 14px;
+  line-height: 14px;
+  text-decoration:none;
+  /* font-weight: 600; */
+  letter-spacing: .1em;
+}
+.markdown-preview-view em {
+
+  background-color: #42b983;
+  color: #fff;
+  font-style:normal;
+  vertical-align: top;
+  border-radius: 3px;
+  padding: 1px 6px;
+  font-size: 12px;
+  height: 14px;
+  line-height: 14px;
+  /* font-weight: bold; */
+  letter-spacing: .1em;
+}
+
+.cm-s-obsidian span.cm-em {
+  background-color: #42b983;
+  color: #fff;
+  font-style:normal;
+  vertical-align: top;
+  border-radius: 3px;
+  padding: 1px 6px;
+  font-size: 14px;
+  height: 18px;
+  line-height: 18px;
+}
+.cm-s-obsidian span.cm-strikethrough {
+  background-color: #e7c000;
+  color: #fff;
+  vertical-align: top;
+  border-radius: 3px;
+  padding: 1px 6px;
+  font-size: 14px;
+  height: 18px;
+  line-height: 18px;
+  text-decoration:none;
+}
+
+
+/* 引用文件时，文件名前面会出现 “文档” icon */
+.markdown-preview-view a.internal-link::before {
+  /* content: "\e6fa";
+  font-family: "iconfont"; */
+  margin-right: 4px;
+  margin-left: 2px;
+
+  content: '';
+  background-image: url("data:image/svg+xml,%3Csvg t='1626093724345' class='icon' viewBox='0 0 1024 1024' version='1.1' xmlns='http://www.w3.org/2000/svg' p-id='3856' width='200' height='200'%3E%3Cpath d='M896.5 328.5h-256c-13.3 0-24-10.7-24-24v-256c0-13.3 10.7-24 24-24s24 10.7 24 24v232h232c13.3 0 24 10.7 24 24s-10.7 24-24 24z' fill='%230A59F7' p-id='3857'%3E%3C/path%3E%3Cpath d='M896.5 1000.5h-768c-13.3 0-24-10.7-24-24v-928c0-13.3 10.7-24 24-24h512c6.4 0 12.5 2.5 17 7l256 256c4.5 4.5 7 10.6 7 17v672c0 13.3-10.7 24-24 24z m-744-48h720V314.4L630.6 72.5H152.5v880z' fill='%230A59F7' p-id='3858'%3E%3C/path%3E%3Cpath d='M704.5 792.5h-384c-13.3 0-24-10.7-24-24s10.7-24 24-24h384c13.3 0 24 10.7 24 24s-10.7 24-24 24zM704.5 632.5h-384c-13.3 0-24-10.7-24-24s10.7-24 24-24h384c13.3 0 24 10.7 24 24s-10.7 24-24 24zM704.5 472.5h-384c-13.3 0-24-10.7-24-24s10.7-24 24-24h384c13.3 0 24 10.7 24 24s-10.7 24-24 24zM448.5 312.5h-128c-13.3 0-24-10.7-24-24s10.7-24 24-24h128c13.3 0 24 10.7 24 24s-10.7 24-24 24z' fill='%230A59F7' p-id='3859'%3E%3C/path%3E%3C/svg%3E");
+  background-size: 16px 16px;
+  transform: translate(0, 3px);
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 16.8px;
+  width: 16.33px;
+}
+
+
+/* 去掉 a 链接后面的 icon */
+.external-link {
+  background-image: none;
+  padding-right: 0;
+}
+
+/* 用admontion实现高亮块功能  */
+.admonition.admonition-orange .admonition-title  {
+  display: none;
+}
+.admonition.admonition-orange .admonition-title-content {
+  display: none;
+}
+.admonition.admonition-orange .admonition-title-icon {
+  display: none;
+}
+.admonition.admonition-orange {
+  background-color: rgb(254, 234, 210) !important;
+  border: 1px solid rgb(254, 212, 164);
+  color: rgb(222, 120, 2) !important;
+  border-radius: 5px;
+}
+.markdown-preview-view .admonition.admonition-orange  ul > li:not(.task-list-item)::before {
+  color: rgb(222, 120, 2) !important;
+}
+
+
+.admonition.admonition-light-orange .admonition-title  {
+  display: none;
+}
+.admonition.admonition-light-orange .admonition-title-content {
+  display: none;
+}
+.admonition.admonition-light-orange .admonition-title-icon {
+  display: none;
+}
+.admonition.admonition-light-orange {
+  background-color: rgb(255, 245, 235) !important;
+  border: 1px solid rgb(254, 212, 164);
+  color: rgb(222, 120, 2) !important;
+  border-radius: 5px;
+}
+.markdown-preview-view .admonition.admonition-light-orange  ul > li:not(.task-list-item)::before {
+  color: rgb(222, 120, 2) !important;
+}
+
+
+.admonition.admonition-blue .admonition-title  {
+  display: none;
+}
+.admonition.admonition-blue .admonition-title-content {
+  display: none;
+}
+.admonition.admonition-blue .admonition-title-icon {
+  display: none;
+}
+.admonition.admonition-blue {
+  border: 1px solid rgb(130, 167, 252);
+  background-color: rgb(225, 234, 255) !important;
+	color: rgb(36, 91, 219) !important;
+  border-radius: 5px;
+}
+.markdown-preview-view .admonition.admonition-blue  ul > li:not(.task-list-item)::before {
+  color: rgb(36, 91, 219) !important;
+}
+
+
+.admonition.admonition-light-blue .admonition-title  {
+  display: none;
+}
+.admonition.admonition-light-blue .admonition-title-content {
+  display: none;
+}
+.admonition.admonition-light-blue .admonition-title-icon {
+  display: none;
+}
+.admonition.admonition-light-blue {
+  background-color: rgb(240, 244, 255) !important;
+  border: 1px solid rgb(186, 206, 253);
+  color: rgb(36, 91, 219) !important;
+  border-radius: 5px;
+}
+.markdown-preview-view .admonition.admonition-light-blue  ul > li:not(.task-list-item)::before {
+  color: rgb(36, 91, 219) !important;
+}
+
+
+.admonition.admonition-Light-red .admonition-title  {
+  display: none;
+}
+.admonition.admonition-Light-red .admonition-title-content {
+  display: none;
+}
+.admonition.admonition-Light-red .admonition-title-icon {
+  display: none;
+}
+.admonition.admonition-Light-red {
+  background-color: rgb(254, 241, 241) !important; 
+  border: 1px solid rgb(251, 191, 188);
+  color: rgb(216, 57, 49) !important;
+  border-radius: 5px;
+}
+.markdown-preview-view .admonition.admonition-Light-red  ul > li:not(.task-list-item)::before {
+  color: rgb(216, 57, 49) !important;
+}
+
+
+.admonition.admonition-red .admonition-title  {
+  display: none;
+}
+.admonition.admonition-red .admonition-title-content {
+  display: none;
+}
+.admonition.admonition-red .admonition-title-icon {
+  display: none;
+}
+.admonition.admonition-red {
+  background-color: rgb(253, 226, 226) !important;
+	color: rgb(216, 57, 49) !important;
+  border: 1px solid rgb(249, 142, 139);
+  border-radius: 5px;
+}
+.markdown-preview-view .admonition.admonition-red  ul > li:not(.task-list-item)::before {
+  color: rgb(216, 57, 49) !important;
+}
+
+
+.admonition.admonition-green .admonition-title  {
+  display: none;
+}
+.admonition.admonition-green .admonition-title-content {
+  display: none;
+}
+.admonition.admonition-green .admonition-title-icon {
+  display: none;
+}
+.admonition.admonition-green {
+  background-color: rgb(217, 245, 214) !important;
+	color: rgb(46, 161, 33) !important;
+  border: 1px solid rgb(142, 224, 133);
+  border-radius: 5px;
+}
+.markdown-preview-view .admonition.admonition-green  ul > li:not(.task-list-item)::before {
+  color: rgb(46, 161, 33) !important;
+}
+
+
+.admonition.admonition-light-green .admonition-title  {
+  display: none;
+}
+.admonition.admonition-light-green .admonition-title-content {
+  display: none;
+}
+.admonition.admonition-light-green .admonition-title-icon {
+  display: none;
+}
+.admonition.admonition-light-green {
+  background-color: rgb(240, 251, 239) !important;
+	color: rgb(46, 161, 33) !important;
+  border: 1px solid rgb(183, 237, 177);
+  border-radius: 5px;
+}
+.markdown-preview-view .admonition.admonition-light-green  ul > li:not(.task-list-item)::before {
+  color: rgb(46, 161, 33) !important;
+}
+
+
+.admonition.admonition-purple .admonition-title  {
+  display: none;
+}
+.admonition.admonition-purple .admonition-title-content {
+  display: none;
+}
+.admonition.admonition-purple .admonition-title-icon {
+  display: none;
+}
+.admonition.admonition-purple {
+  background-color: rgb(236, 226, 254) !important;
+	color: rgb(100, 37, 208) !important;
+  border: 1px solid rgb(173, 130, 247);
+  border-radius: 5px;
+}
+.markdown-preview-view .admonition.admonition-purple  ul > li:not(.task-list-item)::before {
+  color: rgb(100, 37, 208) !important;
+}
+
+
+.admonition.admonition-light-purple .admonition-title  {
+  display: none;
+}
+.admonition.admonition-light-purple .admonition-title-content {
+  display: none;
+}
+.admonition.admonition-light-purple .admonition-title-icon {
+  display: none;
+}
+.admonition.admonition-light-purple {
+  background-color: rgb(246, 241, 254) !important;
+  border: 1px solid rgb(205, 178, 250);
+  color: rgb(100, 37, 208) !important;
+  border-radius: 5px;
+}
+.markdown-preview-view .admonition.admonition-light-purple  ul > li:not(.task-list-item)::before {
+  color: rgb(100, 37, 208) !important;
+}
+
+
+.admonition.admonition-gray .admonition-title  {
+  display: none;
+}
+.admonition.admonition-gray .admonition-title-content {
+  display: none;
+}
+.admonition.admonition-gray .admonition-title-icon {
+  display: none;
+}
+.admonition.admonition-gray {
+  background-color: rgb(245, 246, 247) !important;
+  border: 1px solid rgb(187, 191, 196) !important;
+  color: rgb(143, 149, 158) !important;
+  border-radius: 5px;
+}
+.markdown-preview-view .admonition.admonition-gray  ul > li:not(.task-list-item)::before {
+  color: rgb(143, 149, 158) !important;
+}
+
+
+.admonition.admonition-light-gray .admonition-title  {
+  display: none;
+}
+.admonition.admonition-light-gray .admonition-title-content {
+  display: none;
+}
+.admonition.admonition-light-gray .admonition-title-icon {
+  display: none;
+}
+.admonition.admonition-light-gray {
+  background-color: rgb(248, 249, 250) !important;
+  border: 1px solid rgb(222, 224, 227);
+  color: rgb(143, 149, 158) !important;
+  border-radius: 5px;
+}
+.markdown-preview-view .admonition.admonition-light-gray  ul > li:not(.task-list-item)::before {
+  color: rgb(143, 149, 158) !important;
+}
+
+
+.admonition code {
+  background-color: transparent !important;
+}
+
+
+/* 表格样式 */
+.markdown-preview-view table {
+  border: 1px solid #ebeef5;
+  border-radius: 3px;
+  transition: .2s;
+  background-color: #fff;
+  color: #606266;
+  text-indent: 1em;
+  width: 100%;
+}
+
+.markdown-preview-view table thead tr th {
+  padding: 30px 0 15px 0;
+}
+
+.markdown-preview-view th, .markdown-preview-view td {
+  border: unset;
+  border-bottom: 1px solid #ebeef5;
+}
+
+.markdown-preview-view table tbody tr td {
+  padding: 10px 0;
+}
+
+.markdown-preview-view table tbody tr td mark {
+  padding: 0;
+}
+
+.markdown-preview-view table tbody tr:nth-child(2n) {
+  background: #fafafa;
+}
+
+.markdown-preview-view table tbody tr:hover {
+  background: #f2f6fc;
+}
+
+
+/* 类 github 风格的 badge 样式设置 */
+a[href*="obsidian://search"] {
+  background-image: unset
+}
+.admonition .admonition-content img {
+  margin: 5px 8px;
+  padding: unset;
+  cursor: pointer;
+}
+
+
+/* badge 图片样式 */
+.view-content .markdown-preview-view a  img {
+  margin: 0 6px 0 0 !important;
+  padding: 0 0;
+  cursor: pointer;
+}
+.view-content .markdown-preview-view img[referrerpolicy='no-referrer']:active {
+  cursor: pointer;
+  position: relative;
+  top: 0;
+  left: 0;
+  right:0;
+  width: auto;
+  height: 20px;
+  display: inline-block;
+  padding: 0;
+  
+}
+
+
+/* 标签样式 */
+.frontmatter-container .tag, .tag {
+  padding-top: 0.15rem;
+  padding-bottom: 0.15rem;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  vertical-align: top;
+  white-space: nowrap;
+  max-width: 100%;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 1rem;
+  margin-top: 2px;
+}
+
+
+/* 在设置 img-grid 时 admonition-title-content 标题与图片排版混乱问题 */
+.img-grid p.admonition-title-content {
+  display: flex;
+}
+
+
+
+
+
+

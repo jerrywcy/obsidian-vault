@@ -1,0 +1,3 @@
+In the developed world, average life expectancy is increasing. What problems will this cause for individuals and society? Suggest some measures that could be taken to reduce the impact of ageing populations.
+
+This increasing trend, of course, has caused some problems for both individuals and society. For individuals, as their life expectancy rise, their retirement life will also extend, which means heavier financial burden during their work time. What's more, extended elder life often means more suffering from bad health condition or even painful illnesses. 

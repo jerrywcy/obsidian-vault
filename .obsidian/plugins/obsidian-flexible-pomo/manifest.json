@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-flexible-pomo",
+	"name": "Flexible Pomodoro For Obsidian",
+	"version": "0.5.1",
+	"minAppVersion": "0.9.12",
+	"description": "Adds a pomodoro timer to your status bar. This pomodoro has additional options such as early log and extend.",
+	"author": "grassbl8d",
+	"authorUrl": "",
+	"isDesktopOnly": true
+}

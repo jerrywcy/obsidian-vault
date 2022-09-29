@@ -1,0 +1,35 @@
+div.workspace-split.mod-root > div.workspace-split.mod-vertical {
+    overflow: auto;
+}
+div.workspace-split.mod-root div.workspace-split.mod-vertical > div.workspace-leaf {
+    min-width: 550px;
+}
+
+/* Splitting sidebar individual pane horizontally */
+div.workspace-split.mod-root div.workspace-split.mod-vertical > div.workspace-split.mod-horizontal {
+    min-width: 555px;
+    height: calc(100% - 1px);
+    overflow: auto;
+}
+div.workspace-split.mod-root div.workspace-split.mod-vertical > div.workspace-split.mod-horizontal > hr.workspace-leaf-resize-handle {
+    height: calc(100% - 1px);
+}
+div.workspace-split.mod-root div.workspace-split.mod-vertical > div.workspace-split.mod-horizontal > div.workspace-leaf {
+    min-height: 485px;
+}
+
+/* Splitting to scroll main window horizontally */
+div.workspace-split.mod-root > div.workspace-split.mod-horizontal {
+    overflow: auto;
+}
+div.workspace-split.mod-root > div.workspace-split.mod-horizontal > hr.workspace-leaf-resize-handle {
+    height: calc(100% - 1px);
+}
+div.workspace-split.mod-root > div.workspace-split.mod-horizontal > div.workspace-leaf {
+    min-height: 900px;
+}
+
+/* Horizontal Direction */
+div.workspace-split.mod-root > div.workspace-split.mod-horizontal > div.workspace-split.mod-vertical {
+    overflow: auto;
+}

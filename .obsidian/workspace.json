@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "d96e67490af1f5da",
+    "type": "split",
+    "children": [
+      {
+        "id": "76f275c7b822af89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dd8f1c50b963e5a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b31eeb36c3a7210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9acc63e4248bcc78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "出国申请/滑铁卢文书/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f7caae675171a51",
+    "type": "split",
+    "children": [
+      {
+        "id": "edeeee1d6103fac3",
+        "type": "tabs",
+        "dimension": 68.7015503875969,
+        "children": [
+          {
+            "id": "b36e44407189250c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0e2143da6b2fa93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "walking",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91900b3ccc5d977c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "550f6aa6ab27d85a",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad517e9bf2a9b318",
+            "type": "leaf",
+            "state": {
+              "type": "multi-file-explorer-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "131b59b657863f01",
+        "type": "tabs",
+        "dimension": 31.2984496124031,
+        "children": [
+          {
+            "id": "71ca92a8b0f3851d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 462.5
+  },
+  "right": {
+    "id": "dfd96ba7bcaebe0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "17092a8e1e63c7e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a512d27bc694ed2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "出国申请/滑铁卢文书/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45a42f718b868d30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "出国申请/滑铁卢文书/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f516581e77ab058",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce1e2127d3644949",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "出国申请/滑铁卢文书/Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "e59d09bee6763968",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "abed5b2771764cf7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "18e4c99052634b4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ac54d7c3de87e00",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "f69b379d73e7071e",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "13fbef23dacca42a",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1fefe65f6be1cad",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "129f9a99f56bd1f4",
+            "type": "leaf",
+            "state": {
+              "type": "workbench-items",
+              "state": {}
+            }
+          },
+          {
+            "id": "8742ee5c251e3024",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1a9c459862ebc42",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314,
+    "collapsed": true
+  },
+  "active": "9acc63e4248bcc78",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "出国申请/UBC文书/3-Achievements.md",
+    "出国申请/Untitled.md",
+    "ACT.md",
+    "出国申请/UBC文书/1-Who you are.md",
+    "出国申请/UBC文书/UBC文书大纲.md",
+    "出国申请/奖项统计.md",
+    "折腾/报错/PDF.js.md",
+    "折腾/报错/docker端口被占用.md"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "token": "6879-95hp56YAvNxd164L6hal1cKqTbAn1l5EyHxEqSO64-8",
+  "user": "acct:jerrywcy@hypothes.is",
+  "highlightsFolder": "inbox",
+  "isConnected": true,
+  "template": "{% if is_new_article %}# {{title}}\n\n## Metadata\n{% if author %}- Author: [{{author}}]({{authorUrl}}){% endif %}\n- Title: {{title}}\n{% if url %}- Reference: {{url}}{% endif %}\n- Category: #article{% endif %}\n\n{% if is_new_article -%}## Highlights{%- endif %}\n{% for highlight in highlights -%}- {{highlight.text}} — [Updated on {{highlight.updated}}]({{highlight.incontext}})\n{% if highlight.tags | length %}   - Tags: {% for tag in highlight.tags -%}#{{tag| replace(\" \", \"-\")}} {%- endfor %}{%- endif %}\n{% if highlight.annotation %}   - Annotation: {{highlight.annotation}}{%- endif -%}{%- endfor -%}",
+  "syncOnBoot": true,
+  "autoSyncInterval": 0,
+  "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
+  "history": {
+    "totalArticles": 3,
+    "totalHighlights": 73
+  },
+  "groups": [
+    {
+      "id": "__world__",
+      "name": "Public",
+      "public": true,
+      "type": "open",
+      "selected": true
+    },
+    {
+      "id": "qLZ8odbw",
+      "name": "Communists",
+      "public": false,
+      "type": "private",
+      "selected": true
+    }
+  ],
+  "useDomainFolders": false,
+  "syncedFiles": [
+    {
+      "filename": "不思考关系的双向链接并不能带来思维提升  噗噗观止.md",
+      "uri": "https%3A%2F%2Ffengchenpupu.zhubai.love%2Fposts%2F2089706009596542976"
+    },
+    {
+      "filename": "马克思 恩格斯：共产党宣言（1848年）.md",
+      "uri": "https%3A%2F%2Fwww.marxists.org%2Fchinese%2Fmarx%2F01.htm"
+    },
+    {
+      "filename": "第一章　商　品.md",
+      "uri": "https%3A%2F%2Fwww.marxists.org%2Fchinese%2Fmarx%2Fcapital%2F01.htm"
+    }
+  ],
+  "lastSyncDate": "2022-09-22T09:58:50.097Z"
+}

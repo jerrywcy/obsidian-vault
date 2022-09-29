@@ -1,0 +1,67 @@
+/* Kanban background images v0.1, special edition abstract, @Solen Feyissa https://unsplash.com/@solenfeyissa and @Pawel Czerwinski https://unsplash.com/@pawel_czerwinski, for Blue Topaz */
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+1) {
+  background-image: url("https://images.unsplash.com/photo-1601682633973-a76aa17a7844?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+}
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+2) {
+  background-image: url("https://images.unsplash.com/photo-1601436155225-2633c7f3818b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+}
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+3) {
+  background-image: url("https://images.unsplash.com/photo-1564951434112-64d74cc2a2d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60");
+}
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+4) {
+  background-image: url("https://images.unsplash.com/photo-1601436155223-9b6f9c287cd1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+}
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+5) {
+  background-image: url("https://images.unsplash.com/photo-1600456011949-d2fc441999b4?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NTAyfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+}
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+6) {
+  background-image: url("https://images.unsplash.com/photo-1600226082873-02b7eb2b7c23?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NTA2fHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+}
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+0) {
+  background-image: url("https://images.unsplash.com/photo-1600538622150-d5a24464bc47?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NTAwfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+}
+
+/*---------*/
+.theme-dark .kanban-plugin__lane-wrapper {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.theme-dark .kanban-plugin__lane-wrapper:nth-child(8n+1) {
+  background-image: url("https://images.unsplash.com/photo-1628432436663-9e588806592a?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MjR8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+}
+
+.theme-dark .kanban-plugin__lane-wrapper:nth-child(8n+2) {
+  background-image: url("https://images.unsplash.com/photo-1621791554791-cb212a4a55a6?ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+}
+
+.theme-dark .kanban-plugin__lane-wrapper:nth-child(8n+3) {
+  background-image: url("https://images.unsplash.com/photo-1630182044473-34dd20c6dd8c?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+}
+
+.theme-dark .kanban-plugin__lane-wrapper:nth-child(8n+4) {
+  background-image: url("https://images.unsplash.com/photo-1622405538251-e8c48fdc40db?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTA2fHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+}
+
+.theme-dark .kanban-plugin__lane-wrapper:nth-child(8n+5) {
+  background-image: url("https://images.unsplash.com/photo-1628432337777-bdc12ebda14e?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Mjh8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+}
+
+.theme-dark .kanban-plugin__lane-wrapper:nth-child(8n+6) {
+  background-image: url("https://images.unsplash.com/photo-1620503266076-5fd971fdd572?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTQxfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+}
+
+.theme-dark .kanban-plugin__lane-wrapper:nth-child(8n+7) {
+    background-image: url("https://images.unsplash.com/photo-1625425325558-d83335f635d8?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Njd8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+  }
+
+.theme-dark .kanban-plugin__lane-wrapper:nth-child(8n+0) {
+  background-image: url("https://images.unsplash.com/photo-1620503395484-07e2a7ea3f8b?ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+}

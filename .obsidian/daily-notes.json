@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD",
+  "folder": "DailyNotes",
+  "autorun": false,
+  "template": "模板/DailyNotes.md"
+}

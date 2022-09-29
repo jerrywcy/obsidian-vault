@@ -1,0 +1,7 @@
+{
+  "podcastTemplate": "---\ntags: [Podcast]\ndate: {{Date}}\nepisode-date: {{EpisodeDate}}\n---\n# {{Title}}\n![]({{ImageURL}})\n## Description:\n{{Description}}\n-> [Podcast Link]({{PodcastURL}})\n\n## Notes:\n",
+  "atCursor": false,
+  "fileName": "{{Date} - {{Title}} - Notes",
+  "folder": "Podcasts",
+  "templatePath": ""
+}

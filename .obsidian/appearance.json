@@ -1,0 +1,19 @@
+{
+  "baseFontSize": 19,
+  "translucency": false,
+  "cssTheme": "",
+  "theme": "moonstone",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "【链接】customized link",
+    "双链图标",
+    "iconfont",
+    "Loading-Cat",
+    "【教程】自定义tag特殊英文标签",
+    "【标题】Display H1-H6 instead of # in edit mode",
+    "B - Heatmap",
+    "masonry",
+    "【列表】有序列表自动编号"
+  ],
+  "accentColor": ""
+}

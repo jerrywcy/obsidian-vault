@@ -1,0 +1,20 @@
+{
+  "pluginList": [
+    "cumany/cMenu-Plugin",
+    "Quorafind/Obsidian-Virtual-Hotkey-Keyboard",
+    "nothingislost/obsidian-hover-editor",
+    "davish/obsidian-full-calendar",
+    "Quorafind/Obsidian-Big-Calendar",
+    "Quorafind/Obsidian-Memos"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": true,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": true,
+  "debuggingMode": true,
+  "notificationsEnabled": true
+}

@@ -1,0 +1,14 @@
+{
+  "pluginList": [
+    "Quorafind/Obsidian-Big-Calendar",
+    "Quorafind/Obsidian-Memos"
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": true,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": true,
+  "debuggingMode": true
+}

@@ -1,0 +1,161 @@
+{
+  "choices": [
+    {
+      "id": "4b5650d6-679b-42b7-ada6-2c99f250c16e",
+      "name": "闪念",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "DailyNotes/{{DATE:YYYY-MM-DD}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": true,
+        "template": "模板/DailyNotes.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- {{VALUE:你想说什么？}} [[随想]]"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "##  [[随想]]",
+        "insertAtEnd": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "511e0cdf-cf1d-42d3-9ea7-9dea936a362c",
+      "name": "University related",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "2a9750e5-a447-4201-bc6f-030525399254",
+          "name": "New File and Kanban",
+          "type": "Macro",
+          "command": true,
+          "macroId": "76f97e4c-d53f-4109-82bb-9ab6c6bdb7cc"
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "1b99bb86-b312-4b19-8f56-ef87f57332a2",
+      "name": "Problem Solution",
+      "type": "Template",
+      "command": true,
+      "templatePath": "模板/题解.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:Problem-ID}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "题解"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [
+    {
+      "name": "University Add",
+      "id": "76f97e4c-d53f-4109-82bb-9ab6c6bdb7cc",
+      "commands": [
+        {
+          "name": "New File",
+          "type": "NestedChoice",
+          "id": "7d07622f-627c-493d-a9f0-0322803de1d1",
+          "choice": {
+            "id": "2aabe453-abc4-4af1-bdb8-05927d31f3f3",
+            "name": "New File",
+            "type": "Template",
+            "command": false,
+            "templatePath": "模板/University.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:Name}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "New Kanban",
+          "type": "NestedChoice",
+          "id": "65aa0f6a-cea6-4272-9704-97cf3476fbdd",
+          "choice": {
+            "id": "fe32e6d2-bfbf-4420-9da2-099b3838546e",
+            "name": "New Kanban",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Abroad/College Research.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "{{VALUE:Name}}"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## Under Consideration",
+              "insertAtEnd": true,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ]
+}

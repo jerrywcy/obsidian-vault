@@ -1,0 +1,5 @@
+![[Attachments/Pasted image 20220525220150.png]]
+The graphs illustrates the procedure of producing cement and concrete.
+The first step of making cement is to crush limestone and clay into powder and mix them together using a mixer. Then the powder goes through an inclining rotating heater, where the powder gets heated from down to up while being rotated. After being ground in a grinder, the powder becomes cement, which can later be used in the production of concrete, and are packed in bags for sale.
+Compared with cement, the production of concrete is much simpler. The whole procedure is of mixing together various materials in different proportion. After mixing together 10% of water, 15% of cement, which is produced, 25% sand and 50% of gravel, which are small stones, together in a concrete mixer, concrete is made.
+In general, the production of cement is more complex, which involves going through a mixer, a rotating heater and a grinder, while that of concrete is relatively easier.

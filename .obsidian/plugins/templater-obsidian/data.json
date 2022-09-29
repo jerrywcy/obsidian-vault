@@ -1,0 +1,33 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "模板",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "Scripts/Templater",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Abroad/Universities",
+      "template": "模板/University.md"
+    },
+    {
+      "folder": "题解",
+      "template": "模板/题解.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ]
+}

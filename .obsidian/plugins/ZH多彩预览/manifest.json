@@ -1,0 +1,9 @@
+{
+  "id": "multi-color-preview",
+  "name": "ZH多彩预览",
+  "version": "0.0.9-0914",
+  "description": "支持Esc键切换编辑/预览模式、判断末尾信息强制切换模式、指定多组正则表达式或关键词组以不同颜色或背景色进行预览",
+  "author": "蚕子",
+  "authorUrl": "https://jq.qq.com/?_wv=1027&k=hgkmKRoE",
+  "isDesktopOnly": false
+}

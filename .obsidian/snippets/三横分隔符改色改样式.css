@@ -1,0 +1,16 @@
+.theme-light {
+    --delimiter: #008080;
+}
+
+.theme-dark {
+    --delimiter: #FFFFFF;
+}
+
+.markdown-preview-view hr {
+    border: none;
+    height: 0;
+    border-bottom: 1px solid;
+    border-image-slice: 1;
+    border-width: 3px;
+    border-image-source: linear-gradient(to right, transparent, var(--delimiter), transparent);
+}

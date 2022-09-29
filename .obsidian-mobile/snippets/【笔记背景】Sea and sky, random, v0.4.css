@@ -1,0 +1,68 @@
+/* Sea and sky, random, v0.4 for Blue Topaz */
+.theme-dark .workspace-split.mod-root .workspace-leaf:nth-child(n)  .workspace-leaf-content[data-type="markdown"]::before {
+    background-size: 100% 100%;
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0.15;
+    background-size: cover;
+}
+
+.theme-light .workspace-split.mod-root .workspace-leaf:nth-child(n)  .workspace-leaf-content[data-type="markdown"]::before {
+    background-size: 100% 100%;
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0.2;
+    background-size: cover;
+}
+
+.theme-dark .workspace-split.mod-root .workspace-leaf:nth-child(5n+0) .workspace-leaf-content[data-type="markdown"]::before {
+    background-image: url("https://source.unsplash.com/random?deep,ocean");
+}
+
+.theme-dark .workspace-split.mod-root .workspace-leaf:nth-child(5n+1) .workspace-leaf-content[data-type="markdown"]::before {
+    background-image: url("https://source.unsplash.com/random?clear,sea");
+}
+
+.theme-dark .workspace-split.mod-root .workspace-leaf:nth-child(5n+2) .workspace-leaf-content[data-type="markdown"]::before {
+    background-image: url("https://source.unsplash.com/random?blue,ocean");
+}
+
+.theme-dark .workspace-split.mod-root .workspace-leaf:nth-child(5n+3) .workspace-leaf-content[data-type="markdown"]::before {
+    background-image: url("https://source.unsplash.com/random?night,ocean");
+}
+
+.theme-dark .workspace-split.mod-root .workspace-leaf:nth-child(5n+4) .workspace-leaf-content[data-type="markdown"]::before {
+    background-image: url("https://source.unsplash.com/random?blue,sea");
+}
+
+.theme-light .workspace-split.mod-root .workspace-leaf:nth-child(5n+0) .workspace-leaf-content[data-type="markdown"]::before {
+    background-image: url("https://source.unsplash.com/random?green,sky");
+}
+
+.theme-light .workspace-split.mod-root .workspace-leaf:nth-child(5n+1) .workspace-leaf-content[data-type="markdown"]::before {
+    background-image: url("https://source.unsplash.com/random?red,sky");
+}
+
+.theme-light .workspace-split.mod-root .workspace-leaf:nth-child(5n+2) .workspace-leaf-content[data-type="markdown"]::before {
+    background-image: url("https://source.unsplash.com/random?blue,sky");
+}
+
+.theme-light .workspace-split.mod-root .workspace-leaf:nth-child(5n+3) .workspace-leaf-content[data-type="markdown"]::before {
+    background-image: url("https://source.unsplash.com/random?pink,sky");
+}
+
+.theme-light .workspace-split.mod-root .workspace-leaf:nth-child(5n+4) .workspace-leaf-content[data-type="markdown"]::before {
+    background-image: url("https://source.unsplash.com/random?clear,sky");
+}
+
+

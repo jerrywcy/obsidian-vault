@@ -1,0 +1,30 @@
+{
+  "token": "6879-95hp56YAvNxd164L6hal1cKqTbAn1l5EyHxEqSO64-8",
+  "user": "acct:jerrywcy@hypothes.is",
+  "highlightsFolder": "inbox",
+  "isConnected": true,
+  "template": "{% if is_new_article %}# {{title}}\n\n## Metadata\n{% if author %}- Author: [{{author}}]({{authorUrl}}){% endif %}\n- Title: {{title}}\n{% if url %}- Reference: {{url}}{% endif %}\n- Category: #article{% endif %}\n\n{% if is_new_article -%}## Highlights{%- endif %}\n{% for highlight in highlights -%}- {{highlight.text}} — [Updated on {{highlight.updated}}]({{highlight.incontext}})\n{% if highlight.tags | length %}   - Tags: {% for tag in highlight.tags -%}#{{tag| replace(\" \", \"-\")}} {%- endfor %}{%- endif %}\n{% if highlight.annotation %}   - Annotation: {{highlight.annotation}}{%- endif -%}{%- endfor -%}",
+  "syncOnBoot": true,
+  "autoSyncInterval": 0,
+  "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
+  "history": {
+    "totalArticles": 1,
+    "totalHighlights": 10
+  },
+  "syncedFiles": [
+    {
+      "filename": "不思考关系的双向链接并不能带来思维提升  噗噗观止.md",
+      "uri": "https%3A%2F%2Ffengchenpupu.zhubai.love%2Fposts%2F2089706009596542976"
+    }
+  ],
+  "groups": [
+    {
+      "id": "__world__",
+      "name": "Public",
+      "public": true,
+      "type": "open",
+      "selected": true
+    }
+  ],
+  "lastSyncDate": "2022-01-25T05:41:43.328Z"
+}

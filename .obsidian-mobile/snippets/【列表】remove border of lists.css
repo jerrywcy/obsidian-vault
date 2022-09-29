@@ -1,0 +1,6 @@
+/* remove border of lists, for Blue Topaz */
+
+ol > li,
+ul > li:not(.task-list-item) {
+    border-left: none;
+}

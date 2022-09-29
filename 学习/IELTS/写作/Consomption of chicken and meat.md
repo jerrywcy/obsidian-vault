@@ -1,0 +1,5 @@
+![[Attachments/Pasted image 20220514213443.png]]
+The line chart illustrates the change of the consumption of fish and various types of meat in a European country from 1979 to 2004.
+The consumption of beef in 1979 was about 220 grams per person per week. After a short rise to 230 in 1986, the number went all the way down to about 100 in 2004. The consumption of lamb was quite similar to that of beef, except for that it started at 150 grams per person per week and dropped to 50 in 2004. In contrary, the figure for chicken, though also with a start at 150, it kept an upwards trend with fluctuation through out the years to 250 grams per person per week in 2004.
+Unlike others, the consumption of fish has always been at the bottom with a figure of approximately 50 and kept a low but  steady downwards trend within the 25 years period.
+In general, with time goes by, consumers tend to prefer chicken over beef and lamb. However, fish has always been the least preferred.

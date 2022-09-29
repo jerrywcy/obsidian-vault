@@ -1,0 +1,20 @@
+.statusbar-pomo {
+    font-variant-numeric: tabular-nums;
+}
+
+.statusbar-pomo-logging:hover {
+    cursor: pointer;
+}
+
+
+.flexible-pomo-search {
+    width: calc(100% - 20px);
+}
+
+.red-background {
+    background-color: darkslateblue;
+}
+
+.flexible-highlight-font {
+    color: #7765E6;
+}

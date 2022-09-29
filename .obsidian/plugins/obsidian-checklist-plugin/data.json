@@ -1,0 +1,17 @@
+{
+  "todoPageName": "",
+  "showChecked": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "模板/DailyNotes.md",
+    "DailyNotes/2022-01-07.md"
+  ],
+  "_hiddenTags": []
+}

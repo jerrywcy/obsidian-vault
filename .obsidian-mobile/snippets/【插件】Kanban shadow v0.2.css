@@ -1,0 +1,48 @@
+/*Kanban shadow, v0.2, for Blue Topaz */
+
+.theme-light,
+.theme-dark {
+  --kanban-color-1: #3a57ffc7;
+  --kanban-color-2: #249ed6b4;
+  --kanban-color-3: #1ccc1c9f;
+  --kanban-color-4: #c5c72d9a;
+  --kanban-color-5: #bb722d88;
+  --kanban-color-6: #d12e2e7c;
+  --kanban-color-7: #9c3cdca2;
+}
+
+.kanban-plugin {
+  background-color: var(--background-secondary-alt-bg-4-bt) !important;
+}
+
+.kanban-plugin__lane-wrapper {
+  background: unset !important;
+}
+
+.kanban-plugin__lane-wrapper:nth-child(7n+1) {
+  box-shadow: 0px 0px 3px 3px var(--kanban-color-1);
+}
+
+.kanban-plugin__lane-wrapper:nth-child(7n+2) {
+  box-shadow: 0px 0px 3px 3px var(--kanban-color-2);
+}
+
+.kanban-plugin__lane-wrapper:nth-child(7n+3) {
+  box-shadow: 0px 0px 3px 3px var(--kanban-color-3);
+}
+
+.kanban-plugin__lane-wrapper:nth-child(7n+4) {
+  box-shadow: 0px 0px 3px 3px var(--kanban-color-4);
+}
+
+.kanban-plugin__lane-wrapper:nth-child(7n+5) {
+  box-shadow: 0px 0px 3px 3px var(--kanban-color-5);
+}
+
+.kanban-plugin__lane-wrapper:nth-child(7n+6) {
+  box-shadow: 0px 0px 3px 3px var(--kanban-color-6);
+}
+
+.kanban-plugin__lane-wrapper:nth-child(7n+0) {
+  box-shadow: 0px 0px 3px 3px var(--kanban-color-7);
+}

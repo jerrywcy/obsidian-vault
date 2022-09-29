@@ -1,0 +1,13 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@background-image-settings-markdown-page-random": false,
+  "blue-topaz-theme@@background-image-settings-markdown-page-random-options": "background-image-settings-markdown-page-random-default",
+  "blue-topaz-theme@@translucent-setting-panel": false,
+  "blue-topaz-theme@@style-options-for-admonition-plugin": true,
+  "blue-topaz-theme@@style-options-for-buttons-plugin": true,
+  "blue-topaz-theme@@rainbow-checklist": true,
+  "blue-topaz-theme@@style-options-for-calendar-plugin": "style-options-for-calendar-plugin-style-two",
+  "memo-heatmap@@heatmap-light": "ice-light",
+  "memo-heatmap@@heatmap-dark": "ice-dark",
+  "blue-topaz-theme@@style-options-for-kanban-plugin-dynamic": "style-options-for-kanban-plugin-dynamic-neon-two"
+}

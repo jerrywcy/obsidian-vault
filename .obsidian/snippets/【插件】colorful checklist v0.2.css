@@ -1,0 +1,48 @@
+/* colorful checklist, v0.2, for Blue Topaz */
+.theme-dark {
+  --checklist-color-1: #005aa486;
+  --checklist-color-2: #00798986;
+  --checklist-color-3: #12781586;
+  --checklist-color-4: #897b0086;
+  --checklist-color-5: #a4620086;
+  --checklist-color-6: #ab100586;
+  --checklist-color-7: #7f1f9086;
+}
+
+.theme-light {
+  --checklist-color-1: #bbdefbab;
+  --checklist-color-2: #b2ebf2ab;
+  --checklist-color-3: #c8e6c9ab;
+  --checklist-color-4: #f8ef99ab;
+  --checklist-color-5: #ffe0b2ab;
+  --checklist-color-6: #ffcdd2ab;
+  --checklist-color-7: #e1bee7ab;
+}
+
+.checklist-plugin-main.markdown-preview-view li:nth-of-type(7n+1) {
+  background-color: var(--checklist-color-1);
+}
+
+.checklist-plugin-main.markdown-preview-view li:nth-of-type(7n+2) {
+  background-color: var(--checklist-color-2);
+}
+
+.checklist-plugin-main.markdown-preview-view li:nth-of-type(7n+3) {
+  background-color: var(--checklist-color-3);
+}
+
+.checklist-plugin-main.markdown-preview-view li:nth-of-type(7n+4) {
+  background-color: var(--checklist-color-4);
+}
+
+.checklist-plugin-main.markdown-preview-view li:nth-of-type(7n+5) {
+  background-color: var(--checklist-color-5);
+}
+
+.checklist-plugin-main.markdown-preview-view li:nth-of-type(7n+6) {
+  background-color: var(--checklist-color-6);
+}
+
+.checklist-plugin-main.markdown-preview-view li:nth-of-type(7n+7) {
+  background-color: var(--checklist-color-7);
+}

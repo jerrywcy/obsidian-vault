@@ -1,0 +1,5 @@
+![[Attachments/Pasted image 20220525203535.png]]
+The graph illustrates percentages of various levels of post-school qualification held by men and women in Australia in 1999.
+Skilled vocational diploma, postgraduate diploma and master's degree were held by more men than women. The difference between men and women were the largest for skilled vocational diploma, which was 80%, followed by that of postgraduate diploma at 40%. On contrary, the gender difference for master's degree was only about a fifths.
+By contrast, more women held undergraduate diploma and bachelor's degree than men. The percentage of undergraduate diploma held by men and women differed most at two fifths, while the difference between men and women for bachelor's degree was at a mere 10%.
+Overall, it can be seen that men held more post-school qualification than women for both the lowest ones and the highest ones, while women held more middle ones than men.

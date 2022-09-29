@@ -1,0 +1,37 @@
+{
+  "sidebarCommands": [
+    {
+      "id": "obsidian42-brat:BRAT-checkForUpdatesAndUpdate",
+      "name": "Obsidian42 - BRAT: Plugins: Check for updates to all beta plugins and UPDATE",
+      "icon": "feather-chevrons-up"
+    }
+  ],
+  "hiddenCommands": [
+    "Advanced Tables Toolbar",
+    "PDF Highlights",
+    "PDF to Markdown",
+    "打开快速切换",
+    "管理工作区布局",
+    "Show Comments Panel",
+    "Vantage - Advanced search builder",
+    "书库",
+    "Sync your hypothesis highlights",
+    "新建 Excalidraw 绘图",
+    "打开 Markdown 格式转换器",
+    "Templater",
+    "ReadItLater: Save clipboard",
+    "WordNet Dictionary",
+    "Stenography",
+    "BRAT",
+    "Start pomodoro",
+    "查看关系图谱",
+    "开始漫游笔记",
+    "Sync your Kindle highlights",
+    "Sync your hypothesis highlights",
+    "新建 Excalidraw 绘图",
+    "Juggl global graph",
+    "Open Leaflet Map",
+    "插入模板",
+    "打开命令面板"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "folderNotePref": 1,
+  "deleteOutsideNoteWithFolder": false,
+  "indexName": "_about_",
+  "autoRename": true,
+  "folderNoteTemplate": "# {{FOLDER_NAME}}",
+  "logLevel": 4
+}

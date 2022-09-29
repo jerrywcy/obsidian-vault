@@ -1,0 +1,2 @@
+They should only learn a small number of subjects in detail.
+Learning all subjects, although seemingly alluring at first glance, is in fact impractical due to the limited energy and time of individual. Learning all subjects, though originally quite ideal, is more likely to end up only dabbling due to the limited resources. Thus instead of trying to learn all subjects shallowly, digging deep into one subject can be more effective. Studying several or only one subject gives students certain advantages over peers and makes them crucial in particular projects. 

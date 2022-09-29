@@ -1,0 +1,8 @@
+- 在lambda演算中，每个lambda项由多个lambda函数嵌套构成，每个函数有且仅有一个参数
+- lambda函数的应用是左结合的：f x y=(f x) y
+- $\lambda x.x + 2 \iff f(x)=x+2$
+- $(\lambda x.x+2)\quad 3 \iff f(3)=3+2$
+- $(\lambda x.\lambda y.x+y)\quad7\quad2\iff (\lambda y.7+y) \quad 2 \iff 7+2$
+- [[学习/计算机/Lambda演算/alpha转换]]
+- $\beta$归约：
+	- 

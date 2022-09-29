@@ -1,0 +1,5 @@
+![[Attachments/Pasted image 20220529194853.png]]
+The graph illustrates the original look and its look after redevelopment next year of a airport.
+The airport is now divided into two parts: departure and arrivals, with one door for each part. In departures, there was a check-in to the left and a cafe to the right. Behind security passport control are gates arranged clockwise, numbered from 1 to 8 . In the arrivals is passport control customs.
+After redevelopment, however, the airport will change a lot. Two new doors will be opened and several infrastructures and caterings will be erected in both the departures and the arrivals. On the way to the gates, some new shops will be constructed. 10 more gates will be set up to form a Y shaped corridor, with a newly built sky train standing in the place of walkway. 
+Overall, the airport will be brought up to date with more functionality after the redevelopment.

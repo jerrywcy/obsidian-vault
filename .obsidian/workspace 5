@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "d96e67490af1f5da",
+    "type": "split",
+    "children": [
+      {
+        "id": "33c84331d3461f4b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DailyNotes/2021-11-29.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fb2f29809127a85",
+    "type": "split",
+    "children": [
+      {
+        "id": "03e989f60b0a8781",
+        "type": "tabs",
+        "dimension": 57.38866396761133,
+        "children": [
+          {
+            "id": "f73d0e11d52ab675",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "84bf028ca47060f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "785ad06dd2a9035e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e9d8613cebbfdc8b",
+        "type": "tabs",
+        "dimension": 42.611336032388664,
+        "children": [
+          {
+            "id": "517746967ee82057",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323
+  },
+  "right": {
+    "id": "bff6baa1ccac9fb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ab3bd4380985152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c78f93ef8d1cdf79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DailyNotes/2021-11-29.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea543dde55aee814",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DailyNotes/2021-11-29.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdf54b93f189c1db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c798163313bb7d5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DailyNotes/2021-11-29.md"
+              }
+            }
+          },
+          {
+            "id": "792ba3798131517e",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "33c84331d3461f4b",
+  "lastOpenFiles": [
+    "DailyNotes/2021-11-29.md",
+    "折腾/库/Python/Universal Feed Parser.md",
+    "DailyNotes/2021-11-28.md",
+    "DailyNotes/2021-11-24.md",
+    "DailyNotes/2021-11-21.md",
+    "题解/index.md",
+    "题解/CF1046C.md",
+    "日记/2021-11-07.md",
+    "试卷/9.md",
+    "模板/题解.md"
+  ]
+}

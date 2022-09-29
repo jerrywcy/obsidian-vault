@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-multi-file-explorer",
+	"name": "Multi File Explorer",
+	"version": "1.0.3",
+	"minAppVersion": "0.15.0",
+	"description": "A plugin for showing a file explorer like Ulysses in Obsidian.",
+	"author": "Quorafind",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": false
+}

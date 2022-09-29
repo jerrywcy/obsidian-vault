@@ -1,0 +1,17 @@
+{
+  "accessToken": null,
+  "refreshToken": null,
+  "qrSessionToken": "3124c286d0fd0d712f31fd1287006a1e59669e6bc5cce6ec64491351e900d845",
+  "dataDir": "Matter",
+  "syncInterval": 30,
+  "hasCompletedInitialSetup": true,
+  "lastSync": "2022-06-08T19:16:06.558Z",
+  "isSyncing": false,
+  "contentMap": {
+    "#119 群体冷漠和恶之花.md": "4_978734",
+    "Great observation.md": "4_1006113",
+    "How to Take Smart Notes in Obsidian.md": "4_463990",
+    "Yuval Noah Harari argues that what’s at stake in Ukraine is the direction of human history.md": "4_1979031"
+  },
+  "recreateIfMissing": true
+}

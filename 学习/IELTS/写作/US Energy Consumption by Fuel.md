@@ -1,0 +1,6 @@
+![[Attachments/Pasted image 20220513102801.png]]
+The line chart illustrates the change of power consumption in terms of fuel from 1980 with predictions until 2030.
+Petrol and oil took up 35 quadrillion units of U.S. energy consumption in 1980. After a few years of fluctuation, it kept a steady upward trend from 1995 to 2005 then slowed down its pace during 2005 to 2020. This trend is expected to continue in the next 10 years.
+As for the figure for coal and natural, they both followed a similar pattern of fluctuation starting at roughly 20 quadrillion units in 1980 and kept a rising trend through out the years. However, the consumption of coal is predicted to keep rising in the next decade while usage of natural gas will stay constant. 
+Similarly, the consumption of nuclear, solar or wind and hydropower shared the same pattern of staying generally constant at a level of about 5 quadrillion units. 
+In general, with time goes by, all sorts of energy consumption has been rising since 1980 and is predicted to rise in the future except for hydropower.

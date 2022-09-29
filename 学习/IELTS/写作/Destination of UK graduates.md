@@ -1,0 +1,5 @@
+![[Attachments/Pasted image 20220512170843.png]]
+The graph illustrates destination of UK graduates and postgraduates other than full-time work in 2008.
+Further study was the destination for 29665 graduates, comprising a biggest part of all graduates, followed by part-time work and unemployment, which are destination of 17735 and 16235 graduates respectively. In comparison, only 3500 graduates chose voluntary work. 
+As for postgraduates, situation was similar. 2725 students went on to pursue further study, while 2535 postgraduates left university and did part-time work. 1625 postgraduates ended up unemployed, whereas merely 345 students took up voluntary work.
+The destination of UK graduates and postgraduates showed similar pattern. Further study was undoubtedly the destination chose by most people, followed by part-time work and unemployment, while voluntary work was always at the bottom. It is worth noticing that, voluntary work was often a far less popular choice of destination for students, no matter graduates or postgraduates.

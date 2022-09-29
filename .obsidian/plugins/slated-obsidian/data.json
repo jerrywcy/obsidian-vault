@@ -1,0 +1,7 @@
+{
+  "tasksHeader": "## Todo",
+  "blankLineAfterHeader": true,
+  "preserveMovedTasks": true,
+  "localeOverride": "system-default",
+  "weekStart": "locale"
+}

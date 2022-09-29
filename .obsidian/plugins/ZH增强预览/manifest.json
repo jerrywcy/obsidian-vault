@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-view",
+  "name": "ZH增强预览",
+  "version": "0.0.1-0425",
+  "description": "在【预览模式】下快捷设置文本小标题、着重语法和高亮语法等效果。改编自ZH增强编辑、RTL Support及Sort And Permute Lines、obsidian-footnotes等插件，在此感谢原开发者的分享。",
+  "author": "蚕子",
+  "authorUrl": "https://jq.qq.com/?_wv=1027&k=hgkmKRoE",
+  "isDesktopOnly": false
+}

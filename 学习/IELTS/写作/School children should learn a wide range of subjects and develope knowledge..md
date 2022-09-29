@@ -1,0 +1,2 @@
+School children should learn a wide range of subjects and develop knowledge.
+The supporters argue that there are many benefits for learning a wide range of subjects. As different subjects develop,  they tend to relate with each other, so to know more interdisciplinary knowledge is important for students' understanding these subjects better. Because many jobs now require proficiency in combining various subject skills, their interdisciplinary knowledge can give students great advantage over peers in such jobs.

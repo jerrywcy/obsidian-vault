@@ -1,0 +1,44 @@
+/* calendar-2 transparent, v0.2, for Blue Topaz */
+
+.theme-dark {
+  --color-calendar-weekends: #cc8484;
+  --color-calendar-weekends-2: #ff9f9f21;
+  --calendar-today-background-color: #00b3005e;
+  --theme-color-translucent-3: #217cc769;
+}
+
+.theme-light {
+  --color-calendar-weekends: #c74a4a;
+  --color-calendar-weekends-2: #fdadad21;
+  --theme-color-translucent-3: #91c2eb80;
+}
+
+.theme-dark #calendar-container {
+  --color-tr: #11111100;
+}
+
+.theme-light #calendar-container {
+  --color-tr: #ffffff00;
+}
+
+#calendar-container th {
+  padding: 10px 0;
+  border-radius: 0px !important;
+  background-color: unset !important;
+}
+
+#calendar-container .day {
+  border-radius: 50% !important;
+}
+
+#calendar-container .today {
+  color: var(--text-accent) !important;
+  font-weight: 700 !important;
+  background-image: unset;
+}
+
+#calendar-container .day:active, 
+#calendar-container .active, 
+#calendar-container .active.today {
+  background-color: var(--theme-color-translucent-3) !important;
+}

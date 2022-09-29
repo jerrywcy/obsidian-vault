@@ -1,0 +1,159 @@
+/* calendar-0 original, v1.0, for Blue Topaz */
+
+/*==========================*/
+/* obsidian-calendar-plugin */
+/*==========================*/
+#calendar-container {
+--color-background-heading: transparent;
+--color-background-weeknum: transparent;
+--color-background-day: transparent;
+--color-background-weekend: transparent;
+
+--color-dot: var(--text-accent);
+--color-arrow: currentColor;
+--color-button: var(--text-muted);
+--color-text-weeknum: var(--calendar-week-color);
+  
+--color-text-title: var(--text-normal);
+--color-text-heading: var(--text-normal);
+--color-text-day: var(--text-normal);
+--color-text-today: var(--text-accent);
+
+/*===*/
+padding: 0 8px 0 8px;
+margin: -21px -8px 0px -8px;
+line-height: 0.6;
+}
+  
+.theme-dark #calendar-container {
+  --color-tr: #31313193;
+  --color-tr-odd: #19191993;
+}
+
+.theme-light #calendar-container {
+  --color-tr: #ececec9f;
+  --color-tr-odd: #ffffffa2;
+}
+
+/*表格调整*/
+/*星期*/
+#calendar-container th:first-of-type {
+  border-top-left-radius: 3px !important;
+}
+
+#calendar-container th:last-of-type {
+  border-top-right-radius: 3px !important;
+}
+
+#calendar-container th {
+  padding: 8px 0;
+  border-radius: 0px !important;
+  background-color: var(--table-thead-background-color) !important;
+}
+
+
+/*天*/
+#calendar-container td {
+  width: 12.5%;
+  border-right: 0px solid var(--background-secondary-alt);
+  padding: 0 0 1px 0 !important;
+  line-height: 22px;
+}
+
+#calendar-container tr {
+  background-color: var(--color-tr);
+}
+
+#calendar-container tr:nth-child(odd) {
+  background-color: var(--color-tr-odd);
+}
+
+#calendar-container .day.has-note.active:not(.today){
+  color: var(--accent-strong) !important;
+  font-weight: 700;
+}
+
+#calendar-container .day:not(:empty):hover {
+  background-color: var(--table-hover-color);
+}
+
+#calendar-container .calendar {
+  margin: -8px 0;  
+  border-collapse: separate;
+  background-color: var(--background-primary-bg-4-bt);
+  border-spacing: 0;
+}
+
+#calendar-container .day:active, 
+#calendar-container .active, 
+#calendar-container .active.today {
+  background-color: var(--theme-color-translucent) !important;
+}
+
+#calendar-container .today {
+  background: linear-gradient(0deg, var(--calendar-today-background-color) 0%, transparent 50%);
+}
+
+/*“Today”*/
+#calendar-container .reset-button {
+  font-size: 14px !important;
+  margin: 0;
+  padding: 0px 0px 0px 0px;
+  cursor: pointer;
+  line-height: 1.2;
+  text-align: center;
+}
+  
+/*悬停Today*/
+#calendar-container .reset-button:hover {
+  color: var(--header-color);
+  background-color: var(--table-hover-raw-color);
+}
+  
+/*悬停arrow*/
+#calendar-container .arrow:hover {
+  color: var(--theme-color);
+}
+  
+/*今日笔记时红点去除 today's dot*/
+#calendar-container .dot {
+  stroke: transparent;
+}
+  
+/*点调整 dot*/
+#calendar-container .dot-container {
+  margin-top: -2px;
+  margin-bottom: -1px;
+}
+  
+/*月份调整 month*/
+#calendar-container .month {
+  font-size: 20px;
+  line-height: 1;
+}
+  
+/*年份调整 year*/
+#calendar-container .year {
+  font-size: 20px;
+  line-height: 1;
+}
+  
+/*星期数 week*/
+#calendar-container .week-num {
+  /*border-right: 2px solid var(--green) !important;*/
+  background-color: var(--calendar-week-background-color);
+  font-weight: 600;
+}
+
+/*星期数悬停 week hover*/
+#calendar-container .week-num:hover {
+  background-color: var(--calendar-week-hover) !important;
+}
+
+#calendar-container .active.today {
+  box-shadow: none;
+}
+
+#calendar-container .today {
+  box-shadow: none;
+}

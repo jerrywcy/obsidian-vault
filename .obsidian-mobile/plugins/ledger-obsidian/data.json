@@ -1,0 +1,11 @@
+{
+  "tutorialIndex": 0,
+  "currencySymbol": "$",
+  "ledgerFile": "transactions.ledger",
+  "includeFinalLineAmount": false,
+  "enableLedgerVis": false,
+  "assetAccountsPrefix": "Assets",
+  "expenseAccountsPrefix": "Expenses",
+  "incomeAccountsPrefix": "Income",
+  "liabilityAccountsPrefix": "Liabilities"
+}

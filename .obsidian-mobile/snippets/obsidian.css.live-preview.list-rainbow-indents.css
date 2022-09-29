@@ -1,0 +1,88 @@
+/* RAINBOW INDENT COLORS */
+:root {
+/* default */
+    --font-use-default: var(--default-font);
+    --font-size-use-default: var(--editor-font-size);
+    --indent-use-default: 1.8ch;
+/* ------- */
+
+/* theme */
+    --font-use-theme: inherit;
+    --font-size-use-theme: inherit;
+    --indent-use-theme: 1.8ch;
+/* ----- */
+
+/* wide */
+    --font-use-wide: monospace;
+    --font-size-use-wide: 12px;
+    --indent-use-wide: 4.009ch;
+/* ---- */
+
+/* custom */
+    --font-use-custom: Arial;
+    --font-size-use-custom: 13px;
+    --indent-use-custom: 14.5px;
+/* ------ */
+
+/* SET FROM VARIABLES ABOVE UPDATING LAST WORD (e.g. ...-default) */
+/* Copy and replace one of following: default, theme, wide, custom */
+    --indent-font-family: var(--font-use-default);
+    --indent-font-size: var(--font-size-use-default);
+    --indent-width: var(--indent-use-default);
+    --left-offset: 3.5px;
+/* ---------------------------------------------- */
+
+    --line-width: 1.5px;
+    --color-count: 8;
+    --indent-1: #6854c1;
+    --indent-2: #c724b1;
+    --indent-3: #ff6900;
+    --indent-4: #f6be00;
+    --indent-5: #e4002b;
+    --indent-6: #97d700;
+    --indent-7: #00ab84;
+    --indent-8: #00a3e0;
+
+    --indent-bg-size: calc(var(--color-count) * var(--indent-width)) 1px;
+    --indent-rainbow-bg: linear-gradient(
+        to right,
+        var(--indent-1) 0 var(--line-width),
+        transparent var(--line-width) calc(1 * var(--indent-width)),
+        var(--indent-2) calc(1 * var(--indent-width)) calc(1 * var(--indent-width) + var(--line-width)),
+        transparent calc(1 * var(--indent-width) + var(--line-width)) calc(2 * var(--indent-width)),
+        var(--indent-3) calc(2 * var(--indent-width)) calc(2 * var(--indent-width) + var(--line-width)),
+        transparent calc(2 * var(--indent-width) + var(--line-width)) calc(3 * var(--indent-width)),
+        var(--indent-4) calc(3 * var(--indent-width)) calc(3 * var(--indent-width) + var(--line-width)),
+        transparent calc(3 * var(--indent-width) + var(--line-width)) calc(4 * var(--indent-width)),
+        var(--indent-5) calc(4 * var(--indent-width)) calc(4 * var(--indent-width) + var(--line-width)),
+        transparent calc(4 * var(--indent-width) + var(--line-width)) calc(5 * var(--indent-width)),
+        var(--indent-6) calc(5 * var(--indent-width)) calc(5 * var(--indent-width) + var(--line-width)),
+        transparent calc(5 * var(--indent-width) + var(--line-width)) calc(6 * var(--indent-width)),
+        var(--indent-7) calc(6 * var(--indent-width)) calc(6 * var(--indent-width) + var(--line-width)),
+        transparent calc(6 * var(--indent-width) + var(--line-width)) calc(7 * var(--indent-width)),
+        var(--indent-8) calc(7 * var(--indent-width)) calc(7 * var(--indent-width) + var(--line-width)),
+        transparent calc(7 * var(--indent-width) + var(--line-width)) calc(8 * var(--indent-width))
+    );
+}
+
+.mod-cm6.is-live-preview .HyperMD-list-line.cm-line {
+    overflow: hidden;
+}
+.mod-cm6.is-live-preview .HyperMD-list-line.cm-line .cm-hmd-list-indent {
+    position: relative;
+    font-family: var(--indent-font-family) !important;
+    font-size: var(--indent-font-size) !important;
+}
+.mod-cm6.is-live-preview .HyperMD-list-line.cm-line .cm-hmd-list-indent::before {
+    content: '';
+    font-family: var(--indent-font-family) !important;
+    font-size: var(--indent-font-size) !important;
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: -1.6em;
+    padding-bottom: 999em;
+    background-image: var(--indent-rainbow-bg);
+    background-size: var(--indent-bg-size);
+    left: var(--left-offset);
+}

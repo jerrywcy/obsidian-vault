@@ -1,0 +1,15 @@
+{
+  "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjQzNTg0OTkxLCJqdGkiOiJkZjU5NTBiYTRhMDU0MWJlYjc3NzRkNzVhNjQ1NTc0YyIsInVzZXJfaWQiOjI4MTMxLCJjbGllbnRfdHlwZSI6ImludGVncmF0aW9uIiwibG9naW5fc2Vzc2lvbl9pZCI6IjdhNTFkNGQzLTBmZjItNDc0ZC05NTY3LTdmNzk2YTM5OTk4YiJ9.8lrCr65cZf5zd92YQoKagO69yg-w8CSWvpdKHbRYL44",
+  "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MDY2OTc5MSwianRpIjoiOGM4NDA5ODMxOWJkNGI3Y2I4Y2MyYTc0NTM4YjliYTkiLCJ1c2VyX2lkIjoyODEzMSwiY2xpZW50X3R5cGUiOiJpbnRlZ3JhdGlvbiIsImxvZ2luX3Nlc3Npb25faWQiOiI3YTUxZDRkMy0wZmYyLTQ3NGQtOTU2Ny03Zjc5NmEzOTk5OGIifQ.G0QrFFWy1KvyovNejBrTZBnnnQIeOpTTU1jH7zxOY_g",
+  "qrSessionToken": "3124c286d0fd0d712f31fd1287006a1e59669e6bc5cce6ec64491351e900d845",
+  "dataDir": "Matter",
+  "syncInterval": 30,
+  "hasCompletedInitialSetup": true,
+  "lastSync": "2022-01-24T14:27:47.790Z",
+  "isSyncing": false,
+  "contentMap": {
+    "#119 群体冷漠和恶之花.md": "4_978734",
+    "Great observation.md": "4_1006113",
+    "How to Take Smart Notes in Obsidian.md": "4_463990"
+  }
+}

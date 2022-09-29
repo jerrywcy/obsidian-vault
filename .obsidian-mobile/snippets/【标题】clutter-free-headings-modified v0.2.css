@@ -1,0 +1,157 @@
+/*clutter-free-headings for Blue Topaz v0.2*/
+.markdown-preview-view h1, .cm-header-1 { font-size: 2.33rem; }
+.markdown-preview-view h2, .cm-header-2 { font-size: 1.83rem; }
+.markdown-preview-view h3, .cm-header-3 { font-size: 1.5rem; }
+.markdown-preview-view h4, .cm-header-4 { font-size: 1.33rem; }
+.markdown-preview-view h5, .cm-header-5 { font-size: 1.16rem; }
+.markdown-preview-view h6, .cm-header-6 { font-size: 1rem; }
+
+div:not(.CodeMirror-activeline) > .CodeMirror-line span.cm-formatting.cm-formatting-header,
+div.CodeMirror-activeline .CodeMirror-line span.cm-formatting.cm-formatting-header {
+  font-size: 0.9em;
+}
+
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header {
+  color: transparent !important;
+  background:none;
+}
+
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header::before {
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: none;
+  width: 0;
+  overflow: visible;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-1::before {
+  content: 'H1';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-2::before {
+  content: 'H2';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-3::before {
+  content: 'H3';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-4::before {
+  content: 'H4';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-5::before {
+  content: 'H5';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-6::before {
+  content: 'H6';
+}
+
+
+/* add some header prefix in preview*/
+h1::before
+{
+  content: 'H1 ';
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+h2::before
+{
+  content: 'H2 ';
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+h3::before
+{
+  content: 'H3 ';
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+h4::before
+{
+  content: 'H4 ';
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+h5::before
+{
+  content: 'H5 ';
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+h6::before
+{
+  content: 'H6 ';
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.markdown-preview-view h1:hover::before {
+  content: 'H1 ';
+  position: initial;
+  font-size: 12px;
+  width: auto;
+  left: unset;
+  border: none;
+  padding: unset;
+  border-radius: unset;
+  top:unset;
+}
+.markdown-preview-view h2:hover::before {
+  content: 'H2 ';
+  position: initial;
+  font-size: 12px;
+  width: auto;
+  left: unset;
+  border: none;
+  padding: unset;
+  border-radius: unset;
+  top:unset;
+}
+.markdown-preview-view h3:hover::before {
+  content: 'H3 ';
+  position: initial;
+  font-size: 12px;
+  width: auto;
+  left: unset;
+  border: none;
+  padding: unset;
+  border-radius: unset;
+  top:unset;
+}
+.markdown-preview-view h4:hover::before {
+  content: 'H4 ';
+  position: initial;
+  font-size: 12px;
+  width: auto;
+  left: unset;
+  border: none;
+  padding: unset;
+  border-radius: unset;
+  top:unset;
+}
+.markdown-preview-view h5:hover::before {
+  content: 'H5 ';
+  position: initial;
+  font-size: 12px;
+  width: auto;
+  left: unset;
+  border: none;
+  padding: unset;
+  border-radius: unset;
+  top:unset;
+}
+.markdown-preview-view h6:hover::before {
+  content: 'H6 ';
+  position: initial;
+  font-size: 12px;
+  width: auto;
+  left: unset;
+  border: none;
+  padding: unset;
+  border-radius: unset;
+  top:unset;
+}

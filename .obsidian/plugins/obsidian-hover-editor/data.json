@@ -1,0 +1,12 @@
+{
+  "defaultMode": "match",
+  "autoPin": "onMove",
+  "triggerDelay": 200,
+  "closeDelay": 600,
+  "autoFocus": true,
+  "rollDown": false,
+  "snapToEdges": true,
+  "initialHeight": "340px",
+  "initialWidth": "400px",
+  "showViewHeader": true
+}

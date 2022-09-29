@@ -1,0 +1,93 @@
+{
+  "userAdmonitions": {
+    "blank": {
+      "type": "blank",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "kanban": {
+      "type": "kanban",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "clipboard-list",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "col2": {
+      "type": "col2",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "columns",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "pomodoro": {
+      "type": "pomodoro",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "clockwork",
+        "type": "rpg"
+      },
+      "command": false,
+      "title": "番茄钟",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "col4": {
+      "type": "col4",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "columns",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "col5": {
+      "type": "col5",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "columns",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "col3": {
+      "type": "col3",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "columns",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": true,
+  "copyButton": false,
+  "version": "6.8.0",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "syncLinks": true,
+  "enableMarkdownProcessor": true,
+  "injectColor": true,
+  "parseTitles": true,
+  "allowMSSyntax": true
+}

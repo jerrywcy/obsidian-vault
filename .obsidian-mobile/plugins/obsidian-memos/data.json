@@ -1,0 +1,18 @@
+{
+  "StartDate": "Sunday",
+  "InsertAfter": "## 随想",
+  "UserName": "jerrywcy",
+  "ProcessEntriesBelow": "## 随想",
+  "Language": "zh",
+  "SaveMemoButtonLabel": "记录",
+  "ShareFooterStart": "{MemosNum} Memos {UsedDay} Day",
+  "ShareFooterEnd": "✍️ by {UserName}",
+  "DefaultPrefix": "List",
+  "InsertDateFormat": "Tasks",
+  "DefaultEditorLocation": "Top",
+  "UseButtonToShowEditor": true,
+  "FocusOnEditor": true,
+  "OpenDailyMemosWithMemos": true,
+  "HideDoneTasks": false,
+  "OpenMemosAutomatically": false
+}

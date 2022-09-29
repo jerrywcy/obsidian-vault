@@ -1,0 +1,41 @@
+/*Kanban background images, v0.2, for Blue Topaz */
+
+.theme-light {
+  --kanban-color-1: #1d87ffc7;
+  --kanban-color-2: #23cacab4;
+  --kanban-color-3: #1cb54f9f;
+  --kanban-color-4: #c5c72d9a;
+  --kanban-color-5: #bb722d88;
+  --kanban-color-6: #d12e2e7c;
+  --kanban-color-7: #8f36cb88;
+}
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+1) {
+  background: linear-gradient(to bottom, var(--kanban-color-1) 30%,  transparent);
+}
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+2) {
+  background: linear-gradient(to bottom, var(--kanban-color-2) 30%,  transparent);
+}
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+3) {
+  background: linear-gradient(to bottom, var(--kanban-color-3) 30%,  transparent);
+}
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+4) {
+  background: linear-gradient(to bottom, var(--kanban-color-4) 30%,  transparent);
+}
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+5) {
+  background: linear-gradient(to bottom, var(--kanban-color-5) 30%,  transparent);
+}
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+6) {
+  background: linear-gradient(to bottom, var(--kanban-color-6) 30%,  transparent);
+}
+
+.theme-light .kanban-plugin__lane-wrapper:nth-child(7n+0) {
+  background: linear-gradient(to bottom, var(--kanban-color-7) 30%,  transparent);
+}
+
+/*---------*
