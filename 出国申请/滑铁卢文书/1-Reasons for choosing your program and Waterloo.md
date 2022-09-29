@@ -2,11 +2,11 @@
 
 ## Why Waterloo
 
-I appreciate the co-op programme of Waterloo and loved its atmosphere. I also  
+I appreciate the co-op programme of Waterloo and loved its atmosphere. Also, waterloo's computer
 
 ## Computer Science and Business Administration Double degree
 
-
+I have some experiences in Competitive Programming, 
 
 ## Software Programming
 
