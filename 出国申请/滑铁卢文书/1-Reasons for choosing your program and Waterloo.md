@@ -2,11 +2,11 @@
 
 ## Why Waterloo
 
-I appreciate the co-op programme of Waterloo and loved its atmosphere. Also, waterloo's computer
+I appreciate the co-op programme of Waterloo and loved its atmosphere. Also, waterloo's computer related majors are compelling for me.
 
 ## Computer Science and Business Administration Double degree
 
-I have some experiences in Competitive Programming, 
+I have some experiences in Competitive Programming, so Computer Science would be suitable for me. Also, 
 
 ## Software Programming
 
