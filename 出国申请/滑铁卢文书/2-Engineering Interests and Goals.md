@@ -1,0 +1,2 @@
+Briefly explain why you are interested in engineering and particularly in the program to which you have applied. Comment, for example, on your interests and abilities; your career goals; exposure to engineering through school-related and other experiences; and discussions you have had with engineers, teachers, current or past Waterloo students.  (900 character limit)
+
