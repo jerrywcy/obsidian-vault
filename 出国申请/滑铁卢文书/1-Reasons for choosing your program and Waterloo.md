@@ -14,4 +14,4 @@ I have no real large software developing experience, but I have written a plugin
 
 ## Mathematics
 
-I have always been interested in Mathematics, though less interested than programming. 
+I have always been interested in Mathematics. Also, Mathematics is the foundation of Computer Science, or specifically, algorithms.
