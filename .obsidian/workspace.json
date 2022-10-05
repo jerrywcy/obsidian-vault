@@ -8,27 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0dd8f1c50b963e5a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1b31eeb36c3a7210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9acc63e4248bcc78",
             "type": "leaf",
             "state": {
@@ -55,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,6 +267,7 @@
   "active": "9ab2466278b35703",
   "lastOpenFiles": [
     "出国申请/滑铁卢文书/1-Reasons for choosing your program and Waterloo.md",
+    "出国申请/滑铁卢文书/2-Engineering Interests and Goals.md",
     "Untitled.md",
     "Untitled 1.md",
     "出国申请/UBC文书/3-Achievements.md",
@@ -295,7 +275,6 @@
     "ACT.md",
     "出国申请/UBC文书/1-Who you are.md",
     "出国申请/UBC文书/UBC文书大纲.md",
-    "出国申请/奖项统计.md",
-    "折腾/报错/PDF.js.md"
+    "出国申请/奖项统计.md"
   ]
 }

@@ -1,17 +1,17 @@
 **Please tell us about your educational goals, your interest in your chosen program(s), and your reasons for applying to the University of Waterloo. If you have applied to more than one program please discuss your interest in each program.  (900 character limit)**
 
-## Why Waterloo
+Why Waterloo?
 
-I appreciate the co-op programme of Waterloo and loved its atmosphere. Also, waterloo's computer related majors are compelling for me.
+I like the atmosphere and the co-op program at Waterloo. What appeals to me most is the computer-related programs here.
 
-## Computer Science and Business Administration Double degree
+CS and BBA Double degree
 
-I have some experiences in Competitive Programming, so Computer Science would be suitable for me. In the future, I plan to switch from pure technique jobs to manager jobs with technique requirements, so Business Administration would be useful.
+I am interested in computer science and have experiences in competitive programming. This program integrates computer science with business administration, which will increase my competitiveness as I pursue a managerial position in a computer technology company. 
 
-## Software Programming
+Software Programming
 
-I have no real large software developing experience, but I have written a plugin for the note-taking app Obsidian using Typescript along with ESBuild for rolling up source codes and Vitest for Test Driven Development, which I have learned from the book Clean Code but is still getting familiar with.
+Although I don't have much experience developing large-scale software, I did use Typescript to create a plugin for the note-taking app Obsidian, along with ESBuild for compiling source code and Vitest for Test Driven Development, which I learned about from the book Clean Code but am still getting familiar with.
 
-## Mathematics
+Mathematics
 
-I have always been interested in Mathematics. Also, Mathematics is the foundation of Computer Science, or specifically, algorithms.
+I have always been interested in Mathematics, which is the foundation of computer science, or to be more specific, algorithms.
