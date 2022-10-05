@@ -1,3 +1,3 @@
 Briefly explain why you are interested in engineering and particularly in the program to which you have applied. Comment, for example, on your interests and abilities; your career goals; exposure to engineering through school-related and other experiences; and discussions you have had with engineers, teachers, current or past Waterloo students.  (900 character limit)
 
-First, I am interested in programming. I loved the feeling of telling the computer what to do. I loved transforming thoughts into reality. 
+First, I am interested in programming. I loved the feeling of telling the computer what to do. I loved transforming thoughts into reality. I also loved to make a clear and 
