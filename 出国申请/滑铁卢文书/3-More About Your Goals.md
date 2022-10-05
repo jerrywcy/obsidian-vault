@@ -1,0 +1,3 @@
+What sorts of things would you like to do or accomplish in Waterloo Engineering and why?
+
+Although I have learned competitive programming and had some developing experience, I am in fact lack in basic knowledge. For example, I didn't know about the differences between strongly/weakly typed language and dynamic/static typed language. Currently, I am reading *Clean Code* and learning to reconstruct my code. After reading the book, I realized that it is far not enough simply making the code running. It need to be well constructed. Each class, each function need to be well defined and written for good understanding, future development and to avoid possible mistakes.
