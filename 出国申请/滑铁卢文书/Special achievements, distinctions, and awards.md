@@ -32,6 +32,34 @@
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
+|academic|American Invitational Mathematics Examination Participation, 14 points|2021|      |
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|American Regions Mathematics League Local National Top 100|2022|      |
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|American Regions Mathematics League Local National Gold|2022|      |
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|American Regions Mathematics League Local Global Top 100 Teams|2022|      |
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|Duke Math Meet China Individual Top 10%|2022|      |
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|Duke Math Meet China Team Top 50%|2022|      |
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|      |      |      |
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
 |academic|      |      |      |
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
@@ -41,4 +69,9 @@
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
 |academic|      |      |      |
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|      |      |      |
+
 
