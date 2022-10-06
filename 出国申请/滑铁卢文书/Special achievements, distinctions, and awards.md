@@ -8,15 +8,15 @@
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
-|academic|USACO US Open Silver Promoted to Gold|2020|2243|
+|academic|Promoted to Gold from Silver in USACO US Open|2020|2243|
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
-|academic|      |      |      |
+|academic|Canadian Computing Competition Certificate of Distinction, Rank 23|2022|3262|
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
-|academic|      |      |      |
+|academic|Euclid Contest Certificate of Distinction|2022|22372|
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
