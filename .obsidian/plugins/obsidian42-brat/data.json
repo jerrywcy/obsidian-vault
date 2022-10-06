@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "Quorafind/obsidian-table-generator",
     "cumany/cMenu-Plugin",
     "Quorafind/Obsidian-Virtual-Hotkey-Keyboard",
     "nothingislost/obsidian-hover-editor",
