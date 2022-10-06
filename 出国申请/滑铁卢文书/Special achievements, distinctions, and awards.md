@@ -20,4 +20,25 @@
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
+|academic|CodeForces Rating 1672 Expert|2021|      |
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|American Mathematics Competitions 12 Honor Roll|2021|39760|
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|American Mathematics Competitions 12 Honor Roll|2021|39760|
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
 |academic|      |      |      |
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|      |      |      |
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|      |      |      |
+
