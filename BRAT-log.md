@@ -1,3 +1,5 @@
+[[2022-10-06]] 19:59 USER-20210911EH Stardusten/ob-table-enhancer The plugin has been registered with BRAT. You may still need to enable it the Community Plugin List.
+
 [[2022-10-06]] 19:57 USER-20210911EH Quorafind/obsidian-table-generator The plugin has been registered with BRAT. You may still need to enable it the Community Plugin List.
 
 [[2022-09-22]] 18:00 USER-20210911EH Checking for beta theme updates COMPLETED

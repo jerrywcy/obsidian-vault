@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "Stardusten/ob-table-enhancer",
     "Quorafind/obsidian-table-generator",
     "cumany/cMenu-Plugin",
     "Quorafind/Obsidian-Virtual-Hotkey-Keyboard",
