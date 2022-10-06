@@ -24,11 +24,11 @@
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
-|academic|American Mathematics Competitions 12 Honor Roll|2021|39760|
+|academic|American Mathematics Competitions 12 Honor Roll|2021|30564|
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
-|academic|American Mathematics Competitions 12 Honor Roll|2021|39760|
+|academic|American Mathematics Competitions 12 Certificate of Distinction|2021|30564|
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
