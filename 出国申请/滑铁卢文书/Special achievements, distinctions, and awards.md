@@ -1,6 +1,10 @@
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
+|academic|Euclid Contest Certificate of Distinction|2021||
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
 |academic|Euclid Contest Certificate of Distinction|2022|22372|
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
@@ -17,7 +21,19 @@
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
-|academic|National Olympiad in Informatics in Provinces Senior Group Jiangsu Provincial First Prize|2021|11139|
+|academic|National Olympiad in Informatics in Provinces Senior Group National Second Prize|2021||
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|National Olympiad in Informatics in Provinces Senior Group Jiangsu Provincial First Prize|2021||
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|National Olympiad in Informatics in Provinces Senior Group National Second Prize|2019||
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
+|academic|National Olympiad in Informatics in Provinces Senior Group Jiangsu Provincial First Prize|2019||
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
@@ -45,7 +61,7 @@
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
-|academic|American Mathematics Competitions 12 Certificate of Distinction|2021|30564|
+|academic|American Mathematics Competitions 12 Certificate of Distinction|2021 Spring|30564|
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
@@ -53,7 +69,7 @@
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
-|academic|American Invitational Mathematics Examination Participation, 13 points|2021 Spring|      |
+|academic|American Invitational Mathematics Examination Participation, 13 points|2021 Autumn|      |
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
@@ -85,6 +101,10 @@
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
+|academic|China High School Biology Olympiad National Third Prize|2020|      |
+
+|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
+|:-----:|:-----:|:-----:|:-----:|
 |non-academic|National "Star of Ocarina" Individual Teenager Group B Bronze|2020|      |
 
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
@@ -94,15 +114,3 @@
 |Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
 |:-----:|:-----:|:-----:|:-----:|
 |non-academic|Nanjing Foreign Language School Five Star Student Award|2021|      |
-
-|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
-|:-----:|:-----:|:-----:|:-----:|
-|academic|      |      |      |
-
-|Award Type|Award, Honour or Distinction|Year Received|Size of Competition if Applicable|
-|:-----:|:-----:|:-----:|:-----:|
-|academic|      |      |      |
-
-
-
-
