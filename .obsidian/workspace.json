@@ -6,7 +6,6 @@
       {
         "id": "7f2587e24692b5a3",
         "type": "tabs",
-        "dimension": 67.36507936507937,
         "children": [
           {
             "id": "e222b8305d4e0a27",
@@ -14,27 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "出国申请/滑铁卢文书/Special achievements, distinctions, and awards.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "22b710ee068cbd40",
-        "type": "tabs",
-        "dimension": 32.63492063492063,
-        "children": [
-          {
-            "id": "5d5f6e506194d6f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "出国申请/奖项统计.md",
+                "file": "出国申请/滑铁卢文书/4-Programming Knowledge.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "出国申请/滑铁卢文书/Special achievements, distinctions, and awards.md",
+                "file": "出国申请/滑铁卢文书/4-Programming Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "出国申请/滑铁卢文书/Special achievements, distinctions, and awards.md",
+                "file": "出国申请/滑铁卢文书/4-Programming Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "出国申请/滑铁卢文书/Special achievements, distinctions, and awards.md"
+                "file": "出国申请/滑铁卢文书/4-Programming Knowledge.md"
               }
             }
           },
@@ -273,15 +252,15 @@
   },
   "active": "e222b8305d4e0a27",
   "lastOpenFiles": [
-    "出国申请/滑铁卢文书/Extracurricular Activities.md",
+    "出国申请/滑铁卢文书/3-More About Your Goals.md",
     "出国申请/滑铁卢文书/Special achievements, distinctions, and awards.md",
+    "出国申请/滑铁卢文书/Extracurricular Activities.md",
+    "出国申请/滑铁卢文书/4-Programming Knowledge.md",
+    "出国申请/滑铁卢文书/1-Reasons for choosing your program and Waterloo.md",
     "出国申请/UBC文书/UBC文书大纲.md",
     "出国申请/UBC文书/4-Activities.md",
     "出国申请/UBC文书/3-Achievements.md",
     "Untitled 1.md",
-    "出国申请/奖项统计.md",
-    "出国申请/滑铁卢文书/2-Engineering Interests and Goals.md",
-    "出国申请/滑铁卢文书/4-Programming Knowledge.md",
-    "出国申请/UBC文书/2-What's important to you.md"
+    "出国申请/奖项统计.md"
   ]
 }
