@@ -1,3 +1,11 @@
+[[2022-10-08]] 20:07 USER-20210911EH Checking for beta theme updates COMPLETED
+
+[[2022-10-08]] 20:06 USER-20210911EH Checking for plugin updates COMPLETED
+
+[[2022-10-08]] 20:06 USER-20210911EH obsidian-table-generator Plugin has been updated from version 1.2.2 to 1.3.0. [Release Info](https://github.com/Quorafind/obsidian-table-generator/releases/tag/1.3.0)
+
+[[2022-10-08]] 20:06 USER-20210911EH Checking for plugin updates STARTED
+
 [[2022-10-06]] 19:59 USER-20210911EH Stardusten/ob-table-enhancer The plugin has been registered with BRAT. You may still need to enable it the Community Plugin List.
 
 [[2022-10-06]] 19:57 USER-20210911EH Quorafind/obsidian-table-generator The plugin has been registered with BRAT. You may still need to enable it the Community Plugin List.

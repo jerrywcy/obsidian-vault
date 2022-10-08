@@ -1,7 +1,7 @@
 {
-  "totalUptime": 1644605000,
-  "lastLoad": 1663840729801,
-  "currentSessionDuration": 72873000,
+  "totalUptime": 1645205000,
+  "lastLoad": 1665230709406,
+  "currentSessionDuration": 600000,
   "showTotalUptimeInStatusBar": false,
   "displayStaringTimeAsHumanString": true,
   "staringText": "You have been staring at your vault for ",
