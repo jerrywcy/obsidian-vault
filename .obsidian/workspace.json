@@ -11,9 +11,12 @@
             "id": "d372cd751bddc2d6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2022-10-08 20.05.21.excalidraw.md"
+                "file": "折腾/库/Python/Universal Feed Parser.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -115,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-10-08 20.05.21.excalidraw.md",
+                "file": "折腾/库/Python/Universal Feed Parser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-10-08 20.05.21.excalidraw.md",
+                "file": "折腾/库/Python/Universal Feed Parser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-10-08 20.05.21.excalidraw.md"
+                "file": "折腾/库/Python/Universal Feed Parser.md"
               }
             }
           },
@@ -252,6 +255,7 @@
   },
   "active": "d372cd751bddc2d6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-10-08 20.05.21.excalidraw.md",
     "出国申请/滑铁卢文书/4-Programming Knowledge.md",
     "出国申请/滑铁卢文书/3-More About Your Goals.md",
     "出国申请/滑铁卢文书/Special achievements, distinctions, and awards.md",
@@ -260,7 +264,6 @@
     "出国申请/UBC文书/UBC文书大纲.md",
     "出国申请/UBC文书/4-Activities.md",
     "出国申请/UBC文书/3-Achievements.md",
-    "Untitled 1.md",
-    "出国申请/奖项统计.md"
+    "Untitled 1.md"
   ]
 }
