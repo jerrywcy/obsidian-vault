@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "折腾/折腾/Neovim-Packer.md",
+                "file": "折腾/折腾/Learn Lua.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "折腾/折腾/Neovim-Packer.md",
+                "file": "折腾/折腾/Learn Lua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "折腾/折腾/Neovim-Packer.md",
+                "file": "折腾/折腾/Learn Lua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "折腾/折腾/Neovim-Packer.md"
+                "file": "折腾/折腾/Learn Lua.md"
               }
             }
           },
@@ -282,6 +282,7 @@
   },
   "active": "139c675730bf8c99",
   "lastOpenFiles": [
+    "折腾/折腾/Neovim-Packer.md",
     "折腾/折腾/Neovim Plugins.md",
     "折腾/折腾/Installing Neovim.md",
     "折腾/折腾/Learn Lua.md",
@@ -290,7 +291,6 @@
     "出国申请/滑铁卢文书/4-Programming Knowledge.md",
     "出国申请/滑铁卢文书/3-More About Your Goals.md",
     "出国申请/滑铁卢文书/Special achievements, distinctions, and awards.md",
-    "出国申请/滑铁卢文书/Extracurricular Activities.md",
-    "出国申请/滑铁卢文书/1-Reasons for choosing your program and Waterloo.md"
+    "出国申请/滑铁卢文书/Extracurricular Activities.md"
   ]
 }
