@@ -1,3 +1,5 @@
+#Neovim
+
 ## Print
 
 ```lua
@@ -43,6 +45,7 @@ print(n) -- 2
 
 ## Strings
 
+```lua
 -- Concatenate strings
 local phrase = "I am"
 local name = "Sid"
@@ -50,14 +53,17 @@ print(phrase .. " " .. name) -- I am Sid
 
 --or
 print("I am " .. "Sid")
+```
 
 ## Boolean
 
+```lua
 local isAlive = true
 print(isAlive) -- true
 
 isAlive = false
 print(isAlive) -- false
+```
 
 ## Comparison Operators
 
@@ -70,6 +76,7 @@ print(isAlive) -- false
 
 ## Conditional Statements
 
+```lua
 -- Number comparisons
 local age = 10
 
@@ -101,9 +108,11 @@ local name = "sid"
 if name ~= "sid" then
   print("not sid")
 end
+```
 
 ## Combining Statements
 
+```lua
 local age = 22
 
 if age == 10 and x > 0 then -- both should be true
@@ -113,46 +122,59 @@ elseif x == 18 or x > 18 then -- 1 or more are true
 end
 
 -- result: over 18
+```
 
 ## Invert Value
 
 - You can also invert a value with the not keyword:
 
+```lua
 local x = 18
 
 if not x == 18 then
   print("kiddo!") -- prints nothing as x is 18
 end
+```
 
 ## Functions
 
+```lua
 local function print_num(a)
   print(a)
 end
+```
 
 or
 
+```lua
 local print_num = function(a)
   print(a)
 end
+```
 
+```lua
 print_num(5) -- prints 5 
+```
 
+```lua
 -- multiple parameters
 
 function sum(a, b)
   return a + b
 end
+```
 
 ## Scope
 
 - Variables have different scopes. Once the end of the scope is reached, the values in that scope are no longer accessible.
 
+```lua
 function foo()
   local n = 10
 end
 
 print(n) -- nil , n isn't accessible outside foo()
+```
 
 ## Loops
 
@@ -160,32 +182,41 @@ print(n) -- nil , n isn't accessible outside foo()
 
 ### While
 
+```lua
 local i = 1
 
 while i <= 3 do
    print("hi")
    i = i + 1
 end
+```
 
 ### For
 
+```lua
 for i = 1, 3 do
    print("hi")
    i = i + 1
 end
+```
 
+```lua
 -- Both print "hi" 3 times
 hi
 hi
 hi
+```
 
 ## Tables
 
-Tables can be used to store complex data.
+- Tables can be used to store complex data.
+- Types of tables:
 
-Types of tables:
-Arrays (lists)
-Items within these can be accessed by "index".
+### Arrays (lists)
+
+- Items within these can be accessed by "index".
+
+```lua
 local colors = { "red", "green", "blue" }
 
 print(colors[1]) -- red
@@ -210,9 +241,13 @@ end
 for _, value in ipairs(colors) do
    print(value)
 end
+```
 
-Dictionaries
-These contain keys and values:
+## Dictionaries
+
+- These contain keys and values:
+
+```lua
 local info = { 
    name = "sid",
    age = 20,
@@ -229,8 +264,11 @@ for key, value in pairs(info) do
 end
 
 -- prints name sid, age 20 etc
+```
 
-Nested Tables
+## Nested Tables
+
+```lua
 -- Nested lists
 local data = {
     { "Sid", 20 },
@@ -246,11 +284,18 @@ local data = {
     sid = { age = 20 },
     time = { age = 90 },
 }
+```
 
-Modules
-Import code from other files
+## Modules
 
+- Import code from other files
+
+```lua
 require("path")
+```
 
-Credits - Lua-Beginners-Guide
-This tutorial is a modifed version of the above guide, shortened to teach basic Lua needed only to configure Neovim in general.
+## Credits 
+
+- [Learn Lua | NvChad](https://nvchad.com/quickstart/learn-lua)
+- [GitHub - pohka/Lua-Beginners-Guide: Lua Beginners Guide](https://github.com/pohka/Lua-Beginners-Guide)
+- This tutorial is a modifed version of the above guide, shortened to teach basic Lua needed only to configure Neovim in general.
