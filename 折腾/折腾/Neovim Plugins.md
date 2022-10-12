@@ -10,4 +10,4 @@
 - [GitHub - tpope/vim-surround: surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease](https://github.com/tpope/vim-surround)
 - [GitHub - svermeulen/vim-subversive: Vim plugin providing operator motions to quickly replace text](https://github.com/svermeulen/vim-subversive)
 - [GitHub - junegunn/vim-easy-align: A Vim alignment plugin](https://github.com/junegunn/vim-easy-align)
-- 
+- [GitHub - wbthomason/packer.nvim: A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config](https://github.com/wbthomason/packer.nvim) [[Neovim-Packer]]
