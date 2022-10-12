@@ -255,7 +255,7 @@ local info = {
 }
 
 -- both print sid
-prrint(info["name"])
+print(info["name"])
 print(info.name)
 
 -- Loop by pairs
