@@ -1,1 +1,13 @@
+- [GitHub - neoclide/coc.nvim: Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.](https://github.com/neoclide/coc.nvim)
+- [GitHub - kevinhwang91/rnvimr: Make Ranger running in a floating window to communicate with Neovim via RPC](https://github.com/kevinhwang91/rnvimr)
+- [GitHub - junegunn/fzf.vim: fzf vim](https://github.com/junegunn/fzf.vim)
+- [GitHub - mg979/vim-xtabline: Tabline customization with buffer filtering](https://github.com/mg979/vim-xtabline)
+- [GitHub - dhruvasagar/vim-table-mode: VIM Table Mode for instant table creation.](https://github.com/dhruvasagar/vim-table-mode)
+- [GitHub - mbbill/undotree: The undo history visualizer for VIM](https://github.com/mbbill/undotree)
+- [GitHub - weirongxu/coc-explorer: 📁 Explorer for coc.nvim](https://github.com/weirongxu/coc-explorer)
+- [GitHub - neoclide/coc-snippets: Snippets solution for coc.nvim](https://github.com/neoclide/coc-snippets)
+- [GitHub - mg979/vim-visual-multi: Multiple cursors plugin for vim/neovim](https://github.com/mg979/vim-visual-multi)
+- [GitHub - tpope/vim-surround: surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease](https://github.com/tpope/vim-surround)
+- [GitHub - svermeulen/vim-subversive: Vim plugin providing operator motions to quickly replace text](https://github.com/svermeulen/vim-subversive)
+- [GitHub - junegunn/vim-easy-align: A Vim alignment plugin](https://github.com/junegunn/vim-easy-align)
 - 
