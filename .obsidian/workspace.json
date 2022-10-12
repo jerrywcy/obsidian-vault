@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "折腾/折腾/Learn Lua.md",
+                "file": "折腾/折腾/Installing Neovim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "折腾/折腾/Learn Lua.md",
+                "file": "折腾/折腾/Installing Neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "折腾/折腾/Learn Lua.md",
+                "file": "折腾/折腾/Installing Neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "折腾/折腾/Learn Lua.md"
+                "file": "折腾/折腾/Installing Neovim.md"
               }
             }
           },
@@ -282,10 +282,10 @@
   },
   "active": "139c675730bf8c99",
   "lastOpenFiles": [
+    "折腾/折腾/Learn Lua.md",
     "折腾/折腾/Neovim-Packer.md",
     "折腾/折腾/Neovim Plugins.md",
     "折腾/折腾/Installing Neovim.md",
-    "折腾/折腾/Learn Lua.md",
     "折腾/库/Python/Universal Feed Parser.md",
     "Excalidraw/Drawing 2022-10-08 20.05.21.excalidraw.md",
     "出国申请/滑铁卢文书/4-Programming Knowledge.md",
