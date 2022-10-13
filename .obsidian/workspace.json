@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "ad08311ea3655d3e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          },
+          {
             "id": "139c675730bf8c99",
             "type": "leaf",
             "state": {
@@ -280,7 +290,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "139c675730bf8c99",
+  "active": "ad08311ea3655d3e",
   "lastOpenFiles": [
     "折腾/折腾/Learn Lua.md",
     "折腾/折腾/Neovim-Packer.md",
