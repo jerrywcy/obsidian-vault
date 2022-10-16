@@ -24,26 +24,8 @@
             "id": "fa9ac305855b8b55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "折腾/折腾/Learn Lua.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "191d02931c4075cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "折腾/折腾/Installing LuaRocks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "memos_view",
+              "state": {}
             }
           },
           {
@@ -60,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "折腾/折腾/Installing LuaRocks.md",
+                "file": "折腾/折腾/Installing Neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "折腾/折腾/Installing LuaRocks.md",
+                "file": "折腾/折腾/Installing Neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "折腾/折腾/Installing LuaRocks.md"
+                "file": "折腾/折腾/Installing Neovim.md"
               }
             }
           },
@@ -293,9 +275,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "191d02931c4075cf",
+  "active": "fa9ac305855b8b55",
   "lastOpenFiles": [
     "折腾/折腾/Learn Lua.md",
+    "折腾/折腾/Installing LuaRocks.md",
     "折腾/折腾/Installing Neovim.md",
     "折腾/折腾/Neovim Plugins.md",
     "折腾/折腾/Neovim-Packer.md",
@@ -303,7 +286,6 @@
     "Excalidraw/Drawing 2022-10-08 20.05.21.excalidraw.md",
     "出国申请/滑铁卢文书/4-Programming Knowledge.md",
     "出国申请/滑铁卢文书/3-More About Your Goals.md",
-    "出国申请/滑铁卢文书/Special achievements, distinctions, and awards.md",
-    "出国申请/滑铁卢文书/Extracurricular Activities.md"
+    "出国申请/滑铁卢文书/Special achievements, distinctions, and awards.md"
   ]
 }
