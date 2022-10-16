@@ -21,14 +21,6 @@
             }
           },
           {
-            "id": "fa9ac305855b8b55",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
             "id": "139c675730bf8c99",
             "type": "leaf",
             "state": {
@@ -41,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "折腾/折腾/Installing Neovim.md",
+                "file": "折腾/折腾/Learn Lua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "折腾/折腾/Installing Neovim.md",
+                "file": "折腾/折腾/Learn Lua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "折腾/折腾/Installing Neovim.md"
+                "file": "折腾/折腾/Learn Lua.md"
               }
             }
           },
@@ -275,11 +266,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fa9ac305855b8b55",
+  "active": "a0ead3f4347f5d17",
   "lastOpenFiles": [
+    "折腾/折腾/Installing Neovim.md",
     "折腾/折腾/Learn Lua.md",
     "折腾/折腾/Installing LuaRocks.md",
-    "折腾/折腾/Installing Neovim.md",
     "折腾/折腾/Neovim Plugins.md",
     "折腾/折腾/Neovim-Packer.md",
     "折腾/库/Python/Universal Feed Parser.md",
